@@ -7,7 +7,7 @@ let currentMonth = null;
 let currentFile = null;
 let allFiles = [];
 
-const base = ".."; // docs 在仓库根目录下，所以回到上一层访问 sgf/
+const base = "."; // docs 在仓库根目录下，所以回到上一层访问 sgf/
 
 let player = null;
 
