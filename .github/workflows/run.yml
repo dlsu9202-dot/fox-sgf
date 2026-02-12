@@ -1,8 +1,8 @@
 name: Auto SGF Spider
 
 permissions:
-  contents: write 
-  
+  contents: write
+
 on:
   schedule:
     - cron: '0 19 * * *'   # 北京时间每天 03:00
