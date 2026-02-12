@@ -188,7 +188,7 @@ def main():
     # =========================
     # 纯棋谱合集（你要的第 5 点）
     # =========================
-    merge_path = os.path.join(pure_dir, f"pure_{today}_merge.sgf")
+    merge_path = os.path.join(pure_dir, f"pure_{month}_merge.sgf")
     with open(merge_path, "w", encoding="utf-8") as f:
         for s in pure_merge:
             f.write(s + "\n\n")
@@ -202,3 +202,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
