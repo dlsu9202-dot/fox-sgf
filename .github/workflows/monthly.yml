@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 20 1 * *'   # 每月 1 号 北京时间 04:00
+    - cron: '0 20 1 * *'   # 每月1号 北京时间04:00
   workflow_dispatch:
 
 jobs:
@@ -13,22 +13,69 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      # 1️⃣ 拉取仓库
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Zip monthly SGF
+      # 2️⃣ 计算“上个月”
+      - name: Set month variable
+        id: month
         run: |
           MONTH=$(date -d "last month" +"%Y-%m")
+          echo "MONTH=$MONTH" >> $GITHUB_ENV
 
+      # 3️⃣ 打包 pure / ai
+      - name: Zip monthly SGF
+        run: |
           cd sgf
           zip -r pure_${MONTH}.zip pure/${MONTH}
           zip -r ai_${MONTH}.zip ai/${MONTH}
 
+      # 4️⃣ 生成目录页
+      - name: Generate index pages
+        run: |
+          python3 << EOF
+          import os
+
+          base = "sgf/pure"
+          months = sorted(
+              d for d in os.listdir(base)
+              if os.path.isdir(os.path.join(base, d))
+          )
+
+          # 总目录
+          with open("sgf/index.html", "w", encoding="utf-8") as f:
+              f.write("<h1>SGF Monthly Index</h1><ul>")
+              for m in months:
+                  f.write(f'<li><a href="{m}.html">{m}</a></li>')
+              f.write("</ul>")
+
+          # 每月目录
+          for m in months:
+              files = os.listdir(os.path.join(base, m))
+              with open(f"sgf/{m}.html", "w", encoding="utf-8") as f:
+                  f.write(f"<h2>{m} Pure SGF</h2><ul>")
+                  for file in files:
+                      f.write(f"<li>{file}</li>")
+                  f.write("</ul>")
+          EOF
+
+      # 5️⃣ 提交目录页
+      - name: Commit index update
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add sgf/*.html
+          git commit -m "Update monthly index" || echo "No changes"
+          git push
+
+      # 6️⃣ 创建 Release
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: "${{ github.run_number }}"
-          name: "SGF ${MONTH}"
-          body: "自动发布 ${MONTH} 棋谱"
+          tag_name: "SGF-${{ env.MONTH }}"
+          name: "SGF ${{ env.MONTH }}"
+          body: "自动发布 ${{ env.MONTH }} 棋谱归档"
           files: |
-            sgf/pure_${MONTH}.zip
-            sgf/ai_${MONTH}.zip
+            sgf/pure_${{ env.MONTH }}.zip
+            sgf/ai_${{ env.MONTH }}.zip
