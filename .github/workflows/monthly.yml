@@ -1,0 +1,34 @@
+name: Monthly SGF Release
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 20 1 * *'   # 每月 1 号 北京时间 04:00
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Zip monthly SGF
+        run: |
+          MONTH=$(date -d "last month" +"%Y-%m")
+
+          cd sgf
+          zip -r pure_${MONTH}.zip pure/${MONTH}
+          zip -r ai_${MONTH}.zip ai/${MONTH}
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: "${{ github.run_number }}"
+          name: "SGF ${MONTH}"
+          body: "自动发布 ${MONTH} 棋谱"
+          files: |
+            sgf/pure_${MONTH}.zip
+            sgf/ai_${MONTH}.zip
