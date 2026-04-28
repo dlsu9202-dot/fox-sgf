@@ -1,12 +1,12 @@
 (;GM[1]FF[4]
 SZ[19]
 GN[第6届韩国最佳棋士战16强<绝艺讲解>]
-DT[2026-04-22]
-PB[김형우]
-PW[이창석]
+DT[2026-04-28]
+PB[金恩持]
+PW[尹畯相]
 BR[P9段]
 WR[P9段]
-KM[650]HA[0]RU[Japanese]AP[GNU Go:3.8]RE[B+R]TM[3600]TC[1]TT[60]AP[foxwq]RL[0]
+KM[650]HA[0]RU[Japanese]AP[GNU Go:3.8]RE[B+0.50]TM[3600]TC[1]TT[30]AP[foxwq]RL[5]
 ;B[pd]
 
 )
