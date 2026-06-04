@@ -1,0 +1,807 @@
+(;GM[1]FF[4]
+SZ[19]
+GN[第6届中国围棋大棋士赛本赛1轮<绝艺讲解>]
+DT[2026-06-04]
+PB[李钦诚]
+PW[王世一]
+BR[P9段]
+WR[P8段]
+KM[375]HA[0]RU[Chinese]AP[GNU Go:3.8]RE[B+R]TM[3600]TC[3]TT[60]AP[foxwq]RL[0]
+;B[pd]
+(;W[dd]
+(;B[pq]
+(;W[cp]
+(;B[cc]
+(;W[dc]
+(;B[cd]
+(;W[de]
+(;B[bf]
+(;W[fq]
+(;B[nc]
+(;W[qo]
+(;B[op]
+(;W[qf]
+(;B[hd]
+(;W[qd]
+(;B[qc]
+(;W[rc]
+(;B[qe]
+(;W[rd]
+(;B[pe]
+(;W[re]
+(;B[pf]
+(;W[qg]
+(;B[pg]
+(;W[eh]
+(;B[cg]
+(;W[dg]
+(;B[dp]
+(;W[dq]
+(;B[co]
+(;W[ep]
+(;B[do]
+(;W[bp]
+(;B[eo]
+(;W[fo]
+(;B[fn]
+(;W[go]
+(;B[gn]
+(;W[ho]
+(;B[di]
+(;W[ei]
+(;B[ej]
+(;W[dj]
+(;B[cq]
+(;W[bq]
+(;B[dh]
+(;W[cj]
+(;B[eg]
+(;W[df]
+(;B[bh]
+(;W[fg]
+(;B[fj]
+(;W[gi]
+(;B[gj]
+(;W[bi]
+(;B[ch]
+(;W[cm]
+(;B[bo]
+(;W[el]
+(;B[cr]
+(;W[br]
+(;B[em]
+(;W[fl]
+(;B[gl]
+(;W[gk]
+(;B[dl]
+(;W[dm]
+(;B[fm]
+(;W[hl]
+(;B[gm]
+(;W[dk]
+(;B[hk]
+(;W[bk]
+(;B[hi]
+(;W[hb]
+(;B[jc]
+(;W[jb]
+(;B[kc]
+(;W[db]
+(;B[qh]
+(;W[bb]
+(;B[bc]
+(;W[cb]
+(;B[ac]
+(;W[pn]
+(;B[qp]
+(;W[no]
+(;B[lq]
+(;W[lp]
+(;B[kp]
+(;W[mq]
+(;B[mp]
+(;W[np]
+(;B[lo]
+(;W[nq]
+(;B[ro]
+(;W[rn]
+(;B[rp]
+(;W[mm]
+(;B[km]
+(;W[rh]
+(;B[ri]
+(;W[pc]
+(;B[qi]
+(;W[mk]
+(;B[qb]
+(;W[pb]
+(;B[rb]
+(;W[sb]
+(;B[sc]
+(;W[sd]
+(;B[om]
+(;W[ok]
+(;B[pl]
+(;W[mo]
+(;B[nm]
+(;W[lp]
+(;B[oc]
+(;W[ra]
+(;B[mp]
+(;W[pr]
+(;B[qr]
+(;W[lp]
+(;B[dr]
+(;W[eq]
+(;B[mp]
+(;W[lr]
+(;B[lm]
+(;W[ml]
+(;B[mn]
+(;W[nn]
+(;B[ln]
+(;W[jq]
+(;B[mi]
+(;W[qj]
+(;B[qk]
+(;W[li]
+(;B[kk]
+(;W[rj]
+(;B[rk]
+(;W[pj]
+(;B[sj]
+(;W[mh]
+(;B[ni]
+(;W[lj]
+(;B[nh]
+(;W[ji]
+(;B[ih]
+(;W[jg]
+(;B[kj]
+(;W[jh]
+(;B[hg]
+(;W[mg]
+(;B[ki]
+(;W[kh]
+(;B[lk]
+(;W[mj]
+(;B[if]
+(;W[jf]
+(;B[ie]
+(;W[ld]
+(;B[lc]
+(;W[je]
+(;B[ob]
+(;W[qa]
+(;B[me]
+(;W[oi]
+(;B[ph]
+(;W[sg]
+(;B[si]
+(;W[md]
+(;B[ne]
+(;W[gh]
+(;B[hj]
+(;W[hm]
+(;B[hn]
+(;W[hh]
+(;B[ig]
+(;W[ii]
+(;B[jd]
+(;W[in]
+(;B[fk]
+(;W[im]
+(;B[ik]
+(;W[ek]
+(;B[fr]
+(;W[gq]
+(;B[er]
+(;W[bs]
+(;B[gr]
+(;W[hr]
+(;B[hs]
+(;W[iq]
+(;B[jn]
+(;W[ll]
+(;B[kl]
+(;W[jo]
+(;B[ir]
+(;W[hq]
+(;B[cs]
+(;W[ao]
+(;B[ap]
+(;W[aq]
+(;B[bn]
+(;W[es]
+(;B[an]
+(;W[fs]
+(;B[ar]
+(;W[gs]
+(;B[ds]
+(;W[fs]
+(;B[ap]
+(;W[ic]
+(;B[id]
+(;W[ao]
+(;B[il])
+(;B[gs]C[/"jueyi黑99.9% | +10.0目以上];W[jr];B[ap];W[mc];B[mb];W[ao];B[ef];W[ff];B[ap];W[lb])
+(;B[mr]C[/"jueyi黑99.9% | +10.0目以上];W[kq];B[ap];W[mc];B[mb];W[ao];B[lp];W[nr];B[ap];W[lb])
+(;B[kr]C[/"jueyi黑99.9% | +10.0目以上];W[kq];B[ap];W[mc];B[mb];W[ao];B[lp];W[mr];B[ap];W[lb]))
+(;W[ao]C[/"jueyi白0.1% | -10.0目以上];B[gs];W[jr];B[ap];W[mc];B[mb];W[ao];B[ef];W[ff];B[ap]))
+(;B[id]C[/"jueyi黑99.9% | +10.0目以上];W[ao];B[gs];W[jr];B[ap];W[mc];B[mb];W[ao];B[ef];W[ff])
+(;B[hc]C[/"jueyi黑99.8% | +10.0目以上];W[ao];B[gs];W[jr];B[ap];W[ib];B[id];W[ao];B[cl];W[bl])
+(;B[fi]C[/"jueyi黑99.9% | +10.0目以上];W[fh];B[id];W[ao];B[ff];W[ef];B[ap];W[ng];B[oh];W[ao]))
+(;W[ic]C[/"jueyi白0.2% | -10.0目以上];B[id];W[ao];B[gs];W[jr];B[ap];W[mc];B[mb];W[ao];B[ef])
+(;W[ng]C[/"jueyi白0.2% | -10.0目以上];B[oh];W[ao];B[mr];W[kq];B[ap];W[ic];B[id];W[ao];B[lp])
+(;W[gs]C[/"jueyi白0.1% | -10.0目以上];B[as];W[is];B[or];W[nr];B[oq];W[po];B[qm];W[qn];B[rm]))
+(;B[ap]C[/"jueyi黑99.9% | +10.0目以上];W[ic];B[id];W[ao];B[gs];W[jr];B[ap];W[ng];B[oh];W[ao])
+(;B[gs]C[/"jueyi黑99.9% | +10.0目以上];W[jr];B[ap];W[ng];B[oh];W[ao];B[cl];W[bl];B[ap];W[ic])
+(;B[kr]C[/"jueyi黑99.9% | +10.0目以上];W[kq];B[ap];W[ng];B[oh];W[ao];B[lp];W[mr];B[ap];W[ic]))
+(;W[fs]C[/"jueyi白0.1% | -10.0目以上];B[ap];W[ic];B[id];W[ao];B[gs];W[jr];B[ap];W[mc];B[mb]))
+(;B[ds]C[/"jueyi黑99.9% | +10.0目以上];W[fs];B[ap];W[ic];B[id];W[ao];B[gs];W[jr];B[ap];W[mc])
+(;B[kr]C[/"jueyi黑99.7% | +10.0目以上];W[kq];B[ds];W[fs];B[ap];W[ic];B[id];W[ao];B[lp];W[mr])
+(;B[jm]C[/"jueyi黑99.6% | +10.0目以上];W[il];B[ds];W[fs];B[ap];W[ng];B[oh];W[ao];B[io];W[ip]))
+(;W[gs]C[/"jueyi白0.1% | -10.0目以上];B[ds];W[fs];B[ap];W[ic];B[id];W[ao];B[gs];W[jr];B[ap]))
+(;B[as]C[/"jueyi黑99.9% | +10.0目以上];W[gs];B[ds];W[fs];B[ap];W[ic];B[id];W[ao];B[gs];W[jr])
+(;B[ap]C[/"jueyi黑99.9% | +10.0目以上];W[gs];B[ds];W[fs];B[as];W[ao];B[mr];W[kq];B[ap];W[ic])
+(;B[ar]C[/"jueyi黑99.9% | +10.0目以上];W[gs];B[ds];W[fs];B[ap];W[ic];B[id];W[ao];B[gs];W[jr]))
+(;W[fs]C[/"jueyi白0.1% | -10.0目以上];B[as];W[gs];B[ds];W[fs];B[ap];W[ic];B[id];W[ao];B[gs])
+(;W[gs]C[/"jueyi白0.2% | -10.0目以上];B[fs];W[jr];B[as];W[is];B[ap];W[nj];B[nl];W[ao];B[ng]))
+(;B[an]C[/"jueyi黑99.9% | +10.0目以上];W[fs];B[as];W[gs];B[ds];W[fs];B[ap];W[ic];B[id];W[ao])
+(;B[as]C[/"jueyi黑99.9% | +10.0目以上];W[fs];B[an];W[gs];B[ds];W[fs];B[ap];W[ic];B[id];W[ao])
+(;B[en]C[/"jueyi黑99.5% | +10.0目以上];W[fs];B[an];W[gs];B[ds];W[fs];B[ap];W[gs];B[bm];W[ng]))
+(;W[en]C[/"jueyi白0.2% | -10.0目以上];B[dn];W[bm];B[an];W[am];B[gk];W[cn];B[en];W[jk];B[jj])
+(;W[bm]C[/"jueyi白0.2% | -10.0目以上];B[an];W[en];B[dn];W[am];B[gk];W[cn];B[en];W[jk];B[jj])
+(;W[es]C[/"jueyi白0.1% | -10.0目以上];B[an];W[fs];B[as];W[gs];B[ds];W[fs];B[ap];W[ic];B[id]))
+(;B[bn]C[/"jueyi黑99.9% | +10.0目以上];W[en];B[dn];W[bm];B[an];W[am];B[gk];W[cn];B[en];W[jk])
+(;B[il]C[/"jueyi黑99.2% | +10.0目以上];W[jm];B[bn];W[es];B[an];W[fs];B[as];W[gs];B[ds];W[fs]))
+(;W[an]C[/"jueyi白0.7% | -10.0目以上];B[bn];W[am];B[bm];W[al];B[bl];W[ak];B[cl];W[ai];B[ah])
+(;W[ol]C[/"jueyi白2.0% | -10.0目以上];B[pm];W[ng];B[oh];W[ic];B[id];W[an];B[bn];W[am];B[bm])
+(;W[ng]C[/"jueyi白2.1% | -10.0目以上];B[oh];W[ic];B[id];W[pk];B[ql];W[ol];B[pm];W[an];B[bn]))
+(;B[bn]C[/"jueyi黑98.9% | +10.0目以上];W[es];B[ap];W[fs];B[an];W[gs];B[ds];W[fs];B[bm];W[ng])
+(;B[ap]C[/"jueyi黑99.2% | +10.0目以上];W[an];B[bn];W[am];B[bm];W[al];B[bl];W[ak];B[cl];W[ai]))
+(;W[ap]C[/"jueyi白0.9% | -10.0目以上];B[ar];W[ao];B[bn];W[an];B[bm];W[am];B[bl];W[al];B[cl])
+(;W[ao]C[/"jueyi白0.9% | -10.0目以上];B[ap];W[an];B[bn];W[am];B[bm];W[al];B[bl];W[ak];B[cl])
+(;W[ng]C[/"jueyi白1.4% | -10.0目以上];B[oh];W[ic];B[id];W[pm];B[ol];W[ql];B[pk];W[ap];B[ar]))
+(;B[cs]C[/"jueyi黑99.3% | +10.0目以上];W[ap];B[ar];W[ao];B[bn];W[an];B[bm];W[am];B[bl];W[al])
+(;B[fs]C[/"jueyi黑95.6% | +10.0目以上];W[ao];B[bn];W[ap];B[ar];W[an];B[bm];W[am];B[bl];W[al])
+(;B[bm]C[/"jueyi黑81.4% | +6.0目];W[ap];B[ar];W[cs];B[ds];W[fs];B[jm];W[il];B[ko];W[am]))
+(;W[hq]C[/"jueyi白1.3% | -10.0目以上];B[cs];W[ap];B[ar];W[ao];B[bn];W[an];B[bm];W[am];B[bl])
+(;W[ap]C[/"jueyi白1.5% | -10.0目以上];B[ar];W[ao];B[bn];W[an];B[bm];W[am];B[bl];W[al];B[cl])
+(;W[ng]C[/"jueyi白2.1% | -10.0目以上];B[oh];W[ap];B[ar];W[ao];B[bn];W[an];B[bm];W[am];B[bl]))
+(;B[cs]C[/"jueyi黑99.3% | +10.0目以上];W[ap];B[ar];W[ao];B[bn];W[an];B[bm];W[am];B[bl];W[al])
+(;B[ir]C[/"jueyi黑98.5% | +10.0目以上];W[hq];B[cs];W[ap];B[ar];W[ao];B[bn];W[an];B[bm];W[am])
+(;B[jm]C[/"jueyi黑95.6% | +10.0目以上];W[il];B[cs];W[ao];B[bn];W[is];B[ko];W[ng];B[oh]))
+(;W[jo]C[/"jueyi白1.2% | -10.0目以上];B[cs];W[ap];B[ar];W[ao];B[bn];W[an];B[bm];W[am];B[bl])
+(;W[il]C[/"jueyi白1.4% | -10.0目以上];B[cs];W[ap];B[ar];W[ao];B[bn];W[an];B[bm];W[am];B[bl])
+(;W[io]C[/"jueyi白1.4% | -10.0目以上];B[cs];W[ao];B[bn];W[is];B[an];W[gs];B[ap];W[fs];B[aq]))
+(;B[kl]C[/"jueyi黑98.7% | +10.0目以上];W[jo];B[cs];W[ap];B[ar];W[ao];B[bn];W[an];B[bm];W[am])
+(;B[io]C[/"jueyi黑97.0% | +10.0目以上];W[jo];B[jm];W[ip];B[cs];W[ao];B[bn];W[is];B[an];W[gs])
+(;B[jm]C[/"jueyi黑97.5% | +10.0目以上];W[jo];B[cs];W[ao];B[bn];W[is];B[an];W[gs];B[ap];W[fs]))
+(;W[jo]C[/"jueyi白2.5% | -10.0目以上];B[jm];W[ll];B[cs];W[ao];B[ap];W[aq];B[bn];W[is];B[an])
+(;W[io]C[/"jueyi白2.1% | -10.0目以上];B[cs];W[ap];B[ar];W[ao];B[bn];W[an];B[bm];W[am];B[bl])
+(;W[ng]C[/"jueyi白3.0% | -10.0目以上];B[oh];W[jo];B[jm];W[ll];B[cs];W[ao];B[ap];W[aq];B[bn]))
+(;B[cs]C[/"jueyi黑99.3% | +10.0目以上];W[ao];B[ap];W[an];B[bn];W[am];B[bm];W[al];B[bl];W[ak])
+(;B[ir]C[/"jueyi黑99.0% | +10.0目以上];W[hq];B[cs];W[ap];B[ar];W[ao];B[bn];W[dn];B[en];W[an])
+(;B[ap]C[/"jueyi黑98.5% | +10.0目以上];W[cs];B[aq];W[ds];B[ar];W[es];B[nj];W[ng];B[nk];W[nl]))
+(;W[ao]C[/"jueyi白2.2% | -10.0目以上];B[ap];W[aq];B[bn];W[bm];B[an];W[en];B[dn];W[am];B[gk])
+(;W[ir]C[/"jueyi白1.0% | -10.0目以上];B[cs];W[ap];B[ar];W[ao];B[bn];W[dn];B[en];W[an];B[bm])
+(;W[ll]C[/"jueyi白2.5% | -10.0目以上];B[kl];W[ao];B[ap];W[an];B[bn];W[aq];B[am];W[en];B[dn]))
+(;B[ir]C[/"jueyi黑99.3% | +10.0目以上];W[hq];B[io];W[jo];B[ip];W[jp];B[iq];W[is];B[jn];W[jm])
+(;B[ap]C[/"jueyi黑98.7% | +10.0目以上];W[gs];B[aq];W[cs];B[ar];W[ds];B[nj];W[ng];B[nk];W[nl])
+(;B[hs]C[/"jueyi黑98.8% | +10.0目以上];W[ir];B[cs];W[ao];B[bn];W[is];B[an];W[gs];B[ap];W[fs]))
+(;W[hr]C[/"jueyi白1.1% | -10.0目以上];B[ir];W[hq];B[io];W[jo];B[ip];W[jp];B[iq];W[is];B[jn])
+(;W[ao]C[/"jueyi白0.2% | -10.0目以上];B[an];W[ap];B[bm];W[ar];B[io];W[jo];B[ip];W[jp];B[hq])
+(;W[ap]C[/"jueyi白0.1% | -10.0目以上];B[io];W[jo];B[ip];W[jp];B[hq];W[iq];B[gp];W[hp];B[fp]))
+(;B[gr]C[/"jueyi黑98.9% | +10.0目以上];W[hr];B[ir];W[hq];B[io];W[jo];B[ip];W[jp];B[iq];W[is])
+(;B[io]C[/"jueyi黑99.4% | +10.0目以上];W[jo];B[ip];W[jp];B[jn];W[jm];B[iq];W[ir];B[jr];W[hq])
+(;B[ap]C[/"jueyi黑98.9% | +10.0目以上];W[gr];B[aq];W[fs];B[ar];W[cs];B[nj];W[ng];B[nk];W[nl]))
+(;W[bs]C[/"jueyi白1.0% | -10.0目以上];B[gr];W[hr];B[ir];W[hq];B[io];W[jo];B[ip];W[jp];B[iq])
+(;W[ng]C[/"jueyi白2.0% | -10.0目以上];B[oh];W[bs];B[gr];W[hr];B[ir];W[hq];B[io];W[jo];B[ip])
+(;W[ao]C[/"jueyi白1.4% | -10.0目以上];B[ap];W[aq];B[bn];W[bs];B[gr];W[hr];B[hs];W[ir];B[cs]))
+(;B[er]C[/"jueyi黑98.9% | +10.0目以上];W[bs];B[gr];W[hr];B[ir];W[hq];B[io];W[jo];B[ip];W[jp])
+(;B[io]C[/"jueyi黑99.3% | +10.0目以上];W[jo];B[ip];W[jp];B[iq];W[ir];B[jn];W[jm];B[kr];W[jr])
+(;B[nj]C[/"jueyi黑98.4% | +10.0目以上];W[ng];B[nk];W[nl];B[oh];W[ol];B[pm];W[bn];B[ap];W[bs]))
+(;W[er]C[/"jueyi白0.7% | -10.0目以上];B[io];W[jo];B[ip];W[jp];B[hp];W[gq];B[jn];W[jm];B[kn])
+(;W[gq]C[/"jueyi白1.2% | -10.0目以上];B[er];W[bs];B[gr];W[hr];B[ap];W[gs];B[aq];W[cs];B[ar])
+(;W[jl]C[/"jueyi白1.1% | -10.0目以上];B[jm];W[jk];B[jj];W[il];B[ij];W[ip];B[er];W[gq];B[bs]))
+(;B[fr]C[/"jueyi黑99.2% | +10.0目以上];W[er];B[io];W[jo];B[ip];W[jp];B[hp];W[gq];B[jn];W[jm])
+(;B[io]C[/"jueyi黑97.6% | +10.0目以上];W[jo];B[ip];W[jp];B[fr];W[gq];B[er];W[bs];B[iq];W[ir])
+(;B[nj]C[/"jueyi黑94.3% | +8.0目];W[nk];B[ng];W[en];B[dn];W[bn];B[kr];W[kq];B[lp];W[jr]))
+(;W[ek]C[/"jueyi白2.0% | -10.0目以上];B[fr];W[er];B[io];W[jo];B[ip];W[jp];B[hp];W[gq];B[jn])
+(;W[ng]C[/"jueyi白3.1% | -10.0目以上];B[oh];W[ic];B[id];W[ek];B[fr];W[er];B[io];W[jo];B[ip])
+(;W[nj]C[/"jueyi白3.0% | -10.0目以上];B[nl];W[ek];B[fr];W[er];B[io];W[jo];B[ip];W[jp];B[gq]))
+(;B[jj]C[/"jueyi黑98.3% | +10.0目以上];W[ek];B[ij];W[ng];B[oh];W[jp];B[bs];W[er];B[ap];W[ds])
+(;B[io]C[/"jueyi黑98.4% | +10.0目以上];W[jo];B[ip];W[jp];B[jn];W[ik];B[ij];W[iq];B[jj];W[ek])
+(;B[ik]C[/"jueyi黑97.2% | +10.0目以上];W[ek];B[fr];W[er];B[io];W[jo];B[ip];W[jp];B[hp];W[gq]))
+(;W[im]C[/"jueyi白2.1% | -10.0目以上];B[jj];W[ek];B[ij];W[jl];B[bs];W[er];B[ap];W[ds];B[bm])
+(;W[ik]C[/"jueyi白1.1% | -10.0目以上];B[ij];W[im];B[jj];W[ek];B[nj];W[ng];B[nk];W[nl];B[oh])
+(;W[jm]C[/"jueyi白0.5% | -10.0目以上];B[jl];W[im];B[jj];W[ll];B[kl];W[ek];B[jp];W[io];B[ij]))
+(;B[fk]C[/"jueyi黑98.1% | +10.0目以上];W[im];B[jj];W[ek];B[ij];W[jl];B[bs];W[er];B[ap];W[ds])
+(;B[en]C[/"jueyi黑76.6% | +5.0目];W[jm];B[jl];W[im];B[jj]))
+(;W[in]C[/"jueyi白1.9% | -10.0目以上];B[fk];W[im];B[jj];W[ek];B[ij];W[jl];B[bs];W[er];B[ap])
+(;W[ng]C[/"jueyi白1.5% | -10.0目以上];B[oh];W[ic];B[id];W[mc];B[mb];W[in];B[fk];W[im];B[ik])
+(;W[nj]C[/"jueyi白1.0% | -10.0目以上];B[nl];W[in];B[fk];W[im];B[jj];W[ek];B[ij];W[bn];B[ap]))
+(;B[jd]C[/"jueyi黑98.2% | +10.0目以上];W[in];B[fk];W[im];B[jj];W[ek];B[ij];W[jl];B[bs];W[er])
+(;B[fd]C[/"jueyi黑98.4% | +10.0目以上];W[gf];B[jd];W[in];B[fk];W[im];B[ik];W[ek];B[nj];W[ng])
+(;B[fe]C[/"jueyi黑97.4% | +10.0目以上];W[fd];B[jd];W[in];B[fk];W[im];B[ik];W[ek];B[fr];W[er]))
+(;W[ii]C[/"jueyi白2.2% | -10.0目以上];B[jd];W[in];B[fk];W[im];B[jj];W[ek];B[ij];W[ng];B[oh])
+(;W[in]C[/"jueyi白1.5% | -10.0目以上];B[fk];W[ik];B[ij];W[im];B[jj];W[ii];B[jd];W[ek];B[bs])
+(;W[ic]C[/"jueyi白1.5% | -10.0目以上];B[jd];W[le];B[id];W[nd];B[od];W[nf];B[oh];W[mf];B[oe]))
+(;B[ig]C[/"jueyi黑97.9% | +10.0目以上];W[ii];B[jd];W[in];B[fk];W[im];B[jj];W[ek];B[ij];W[jl])
+(;B[gg]C[/"jueyi黑98.2% | +10.0目以上];W[ef];B[ii];W[in];B[fk];W[ik];B[jj];W[im];B[ij];W[ig])
+(;B[fi]C[/"jueyi黑95.4% | +10.0目以上];W[fh];B[ii];W[ig];B[ff];W[ef];B[gg];W[id];B[eg];W[ic]))
+(;W[in]C[/"jueyi白2.1% | -10.0目以上];B[fk];W[im];B[jj];W[hh];B[ig];W[ii];B[jd];W[ek];B[ij])
+(;W[hh]C[/"jueyi白3.0% | -10.0目以上];B[ig];W[ii];B[jd];W[in];B[fk];W[im];B[jj];W[ek];B[ij]))
+(;B[hn]C[/"jueyi黑97.9% | +10.0目以上];W[in];B[fk];W[im];B[jj];W[hh];B[ig];W[ii];B[jd];W[ek])
+(;B[jj]C[/"jueyi黑97.2% | +10.0目以上];W[hn];B[fk];W[hh];B[gg];W[ef];B[ii];W[ig];B[jd];W[ek])
+(;B[ik]C[/"jueyi黑96.2% | +10.0目以上];W[hh];B[ig];W[ii];B[jd];W[hn];B[fk];W[ek];B[jp];W[ip]))
+(;W[hh]C[/"jueyi白1.9% | -10.0目以上];B[ig];W[ii];B[jd];W[hm];B[hn];W[in];B[fk];W[im];B[jj])
+(;W[hm]C[/"jueyi白2.7% | -10.0目以上];B[hn];W[in];B[fk];W[im];B[jj];W[hh];B[ig];W[ii];B[jd])
+(;W[ic]C[/"jueyi白1.7% | -10.0目以上];B[jd];W[id];B[ig];W[mc];B[mb];W[le];B[nd];W[lb];B[kb]))
+(;B[hj]C[/"jueyi黑97.8% | +10.0目以上];W[hh];B[ig];W[ii];B[jd];W[hm];B[hn];W[in];B[fk];W[im])
+(;B[hh]C[/"jueyi黑89.3% | +9.0目];W[ik];B[fk];W[ij];B[im];W[hj];B[fi];W[fh];B[ek];W[ic])
+(;B[ii]C[/"jueyi黑84.2% | +8.0目];W[ik];B[fk];W[ij];B[il];W[im];B[jl];W[hj];B[jj];W[ig]))
+(;W[ik]C[/"jueyi白14.4% | -8.0目];B[fk];W[gh];B[hh];W[nj];B[nl];W[ij];B[im];W[il];B[io])
+(;W[nj]C[/"jueyi白13.9% | -8.0目];B[nl];W[ik];B[fk];W[gh];B[hh];W[ij];B[im];W[il];B[io])
+(;W[mc]C[/"jueyi白13.8% | -8.0目];B[jd];W[ik];B[fk];W[gh];B[hj];W[hh];B[ig];W[ii];B[ij]))
+(;B[ne]C[/"jueyi黑87.9% | +8.5目];W[ik];B[fk];W[gh];B[hh];W[ij];B[im];W[nj];B[nl];W[hj]))
+(;W[md]C[/"jueyi白15.9% | -8.0目];B[ne];W[ik];B[fk];W[gh];B[hh];W[ij];B[im];W[nj];B[nl])
+(;W[nj]C[/"jueyi白15.1% | -8.0目];B[nl];W[md];B[ne];W[ik];B[fk];W[gh];B[hh];W[ij];B[im])
+(;W[ik]C[/"jueyi白15.5% | -8.0目];B[fk];W[gh];B[fi];W[fh];B[il];W[md];B[ne];W[hh];B[ii]))
+(;B[si]C[/"jueyi黑84.3% | +8.0目];W[md];B[ne];W[ik];B[fk];W[gh];B[hh];W[ij];B[im];W[nj])
+(;B[nj]C[/"jueyi黑65.9% | +3.5目];W[ol];B[pm];W[si];B[sk];W[ik];B[fk];W[on];B[sh];W[gh])
+(;B[sk]C[/"jueyi黑66.8% | +4.0目];W[nj];B[nl];W[si];B[ik];W[rg];B[sh]))
+(;W[md]C[/"jueyi白16.5% | -7.5目];B[ne];W[ik];B[fk];W[gh];B[hh];W[nj];B[nl];W[ij];B[im])
+(;W[ik]C[/"jueyi白16.1% | -8.0目];B[fk];W[gh];B[hh];W[ij];B[im];W[nj];B[nl];W[md];B[ne])
+(;W[nj]C[/"jueyi白14.0% | -8.5目];B[nl];W[ik];B[fk];W[gh];B[fi];W[fh];B[il];W[hh];B[ff]))
+(;B[ph]C[/"jueyi黑83.7% | +8.0目];W[ik];B[fk];W[md];B[ne];W[nj];B[nl];W[gh];B[hj];W[hh])
+(;B[oh]C[/"jueyi黑64.1% | +3.5目];W[ik];B[fk];W[gh];B[hh];W[le];B[mf];W[ij];B[im];W[hj])
+(;B[nj]C[/"jueyi黑3.2% | -10.0目以上];W[ol];B[pm];W[ph];B[rg];W[ng];B[lf];W[lg];B[kf];W[og]))
+(;W[nj]C[/"jueyi白18.9% | -7.0目];B[nl];W[oi];B[ph];W[ik];B[fk];W[gh];B[hh];W[ij];B[im])
+(;W[md]C[/"jueyi白18.9% | -7.0目];B[ne];W[ik];B[fk];W[gh];B[hh];W[ij];B[im];W[il];B[io])
+(;W[oi]C[/"jueyi白18.8% | -7.0目];B[ph];W[ik];B[fk];W[gh];B[fi];W[fh];B[il];W[hh];B[ff]))
+(;B[ne]C[/"jueyi黑83.7% | +8.0目];W[ik];B[fk];W[gh];B[fi];W[fh];B[il];W[nj];B[nl];W[me])
+(;B[me]C[/"jueyi黑76.5% | +6.0目];W[ik];B[fk];W[gh];B[hh];W[ij];B[im];W[nj];B[nl];W[hj])
+(;B[ng]C[/"jueyi黑65.5% | +4.0目];W[ik];B[fk];W[gh];B[fi];W[fh];B[il];W[hh];B[ii];W[ig]))
+(;W[qa]C[/"jueyi白22.1% | -6.5目];B[me];W[md];B[ne];W[ik];B[fk];W[gh];B[hh];W[ij];B[im])
+(;W[ik]C[/"jueyi白22.9% | -6.5目];B[fk];W[qa];B[me];W[gh];B[hh];W[ij];B[im];W[oi];B[ph])
+(;W[ic]C[/"jueyi白16.8% | -7.0目];B[id];W[jd];B[pa];W[ik];B[fk];W[gh];B[ii];W[ij];B[im]))
+(;B[kd]C[/"jueyi黑81.8% | +7.5目];W[nj];B[nl];W[ik];B[fk];W[md];B[ob];W[gh];B[il];W[qa])
+(;B[md]C[/"jueyi黑74.3% | +5.5目];W[ik];B[fk];W[gh];B[hj];W[hh];B[ig];W[ii];B[fi];W[ll])
+(;B[ne]C[/"jueyi黑77.3% | +6.5目];W[ik];B[fk];W[gh];B[hj];W[hh];B[ig];W[ii];B[fi];W[ll]))
+(;W[ng]C[/"jueyi白26.1% | -5.5目];B[ob];W[ik];B[fk];W[qa];B[oh];W[ne];B[nd];W[me];B[ke])
+(;W[ik]C[/"jueyi白26.2% | -5.5目];B[fk];W[gh];B[kr];W[kq];B[lp];W[mr];B[ii];W[ng];B[oh])
+(;W[je]C[/"jueyi白22.3% | -6.5目];B[kd];W[ik];B[fk];W[gh];B[fi];W[fh];B[il];W[hh];B[ii]))
+(;B[lc]C[/"jueyi黑74.0% | +5.5目];W[ng];B[oh];W[sg];B[si];W[ik];B[fk];W[gh];B[hj];W[hh])
+(;B[kr]C[/"jueyi黑78.4% | +6.5目];W[ik];B[fk];W[kq];B[lp];W[mr];B[lc];W[gh];B[ii];W[je])
+(;B[me]C[/"jueyi黑73.0% | +5.0目];W[ik];B[fk];W[gh];B[fi];W[ic];B[je];W[ke];B[kd];W[oi]))
+(;W[ik]C[/"jueyi白35.6% | -3.5目];B[fk];W[gh];B[fi];W[nj];B[nl];W[sg];B[si];W[ng];B[pi])
+(;W[je]C[/"jueyi白35.6% | -3.5目];B[jd];W[md];B[ng];W[ik];B[fk];W[gh];B[hj];W[lc];B[le])
+(;W[nj]C[/"jueyi白41.6% | -2.0目];B[nl];W[sg];B[si];W[ng];B[pi];W[ne];B[nd];W[ik];B[fk]))
+(;B[le]C[/"jueyi黑85.3% | +8.0目];W[ld];B[me];W[jd];B[ic];W[kd];B[lc];W[md];B[ne];W[he])
+(;B[ik]C[/"jueyi黑81.0% | +7.0目];W[md];B[lc];W[ie];B[he];W[ng];B[oh];W[ne];B[nd];W[id])
+(;B[ld]C[/"jueyi黑81.4% | +7.5目];W[le];B[me];W[oi];B[nj];W[ie];B[he];W[ig];B[gg];W[ol]))
+(;W[nj]C[/"jueyi白26.7% | -5.5目];B[nl];W[me];B[ng];W[nf];B[ne];W[mc];B[lc];W[ik];B[fk])
+(;W[ik]C[/"jueyi白23.2% | -6.0目];B[fk];W[gh];B[il];W[md];B[lc];W[oi];B[oh];W[pk];B[qm])
+(;W[me]C[/"jueyi白25.7% | -5.5目];B[ke];W[le];B[kf];W[lc];B[lb];W[od];B[mc];W[oe];B[pi]))
+(;B[if]C[/"jueyi黑73.0% | +5.5目];W[nj];B[nl];W[me];B[ng];W[nf];B[ne];W[mc];B[lc];W[ik])
+(;B[kr]C[/"jueyi黑73.3% | +5.5目];W[kq];B[lp];W[ms];B[if];W[nj];B[nl];W[me];B[ng];W[nf])
+(;B[kf]C[/"jueyi黑70.5% | +5.0目];W[md];B[ke];W[ng];B[ne];W[me];B[lb];W[sg]))
+(;W[mj]C[/"jueyi白26.8% | -5.5目];B[if];W[nj];B[pi];W[sg];B[si];W[ik];B[fk];W[gh];B[im])
+(;W[ik]C[/"jueyi白25.8% | -5.5目];B[fk];W[mj];B[if];W[nj];B[nl];W[me];B[ng];W[gh];B[il])
+(;W[if]C[/"jueyi白6.7% | -7.0目];B[mj];W[hf];B[hc];W[ib];B[ge];W[lc];B[ld];W[kb];B[gf]))
+(;B[if]C[/"jueyi黑79.0% | +6.5目];W[sg];B[si];W[md];B[lc];W[ke];B[ik];W[ng];B[oh];W[ne])
+(;B[kr]C[/"jueyi黑78.4% | +6.5目];W[kq];B[lp];W[mr];B[if];W[md];B[le];W[sg];B[si];W[ng])
+(;B[lk]C[/"jueyi黑77.4% | +6.5目];W[ik];B[fk];W[mj];B[if];W[gh];B[im];W[hh];B[ii];W[ig]))
+(;W[kh]C[/"jueyi白21.9% | -6.5目];B[if];W[md];B[le];W[me];B[nf];W[lf];B[mf];W[kf];B[lc])
+(;W[sg]C[/"jueyi白22.9% | -6.0目];B[si];W[kh];B[if];W[md];B[lc];W[ke];B[ik];W[ng];B[oh])
+(;W[ik]C[/"jueyi白20.8% | -6.5目];B[fk];W[kh];B[if];W[md];B[le];W[sg];B[si];W[ng];B[oh]))
+(;B[if]C[/"jueyi黑81.6% | +7.0目];W[md];B[ke];W[sg];B[si];W[ng];B[oh];W[ne];B[nd];W[ik])
+(;B[kr]C[/"jueyi黑81.6% | +7.0目];W[kq];B[lp];W[mr];B[if];W[le];B[ki];W[kh];B[md];W[oi])
+(;B[lk]C[/"jueyi黑80.9% | +7.0目];W[mj];B[if];W[ke];B[ki];W[kh];B[ld];W[le];B[md];W[ik]))
+(;W[ik]C[/"jueyi白20.8% | -6.0目];B[fk];W[gh];B[fi];W[sg];B[si];W[hf];B[gf];W[ig];B[hh])
+(;W[mg]C[/"jueyi白18.0% | -7.0目];B[if];W[le];B[md];W[ik];B[fk];W[oi];B[ph];W[me];B[im])
+(;W[if]C[/"jueyi白18.0% | -7.0目];B[hf];W[ng];B[kf];W[lg];B[mf];W[lf];B[ke];W[le];B[ld]))
+(;B[ik]C[/"jueyi黑83.3% | +7.0目];W[if];B[hf];W[oi];B[oh];W[ie];B[he];W[ke];B[ki];W[lh])
+(;B[hg]C[/"jueyi黑83.1% | +7.0目];W[if];B[hf];W[ng];B[kf];W[lg];B[mf];W[lf];B[ke];W[le])
+(;B[ig]C[/"jueyi黑83.0% | +7.0目];W[if];B[hf];W[ik];B[fk];W[ie];B[he];W[ke];B[mg];W[lh]))
+(;W[ik]C[/"jueyi白17.6% | -7.0目];B[fk];W[jh];B[im];W[hh];B[hg];W[gh];B[ii];W[ig];B[hf])
+(;W[jh]C[/"jueyi白16.9% | -7.0目];B[ik];W[if];B[hf];W[oi];B[oh];W[pk];B[qm];W[ie];B[he])
+(;W[oi]C[/"jueyi白17.6% | -6.5目];B[mg];W[ph];B[rf];W[lh];B[ng];W[rg];B[sf];W[jh];B[fk]))
+(;B[ik]C[/"jueyi黑92.1% | +9.0目];W[mf];B[lg];W[mg];B[jh];W[kg];B[ke];W[le];B[kf];W[oi])
+(;B[kr]C[/"jueyi黑91.6% | +9.0目];W[kq];B[lp];W[mr];B[ik];W[lg];B[if];W[jf];B[mf];W[hh])
+(;B[ig]C[/"jueyi黑87.5% | +8.0目];W[jf];B[kj];W[ki];B[if];W[ik];B[fk];W[mg];B[lk];W[mj]))
+(;W[sg]C[/"jueyi白16.1% | -7.5目];B[si];W[ik];B[fk];W[kf];B[ig];W[lg];B[mf];W[if];B[hf])
+(;W[ik]C[/"jueyi白16.1% | -7.5目];B[fk];W[sg];B[si];W[kf];B[ig];W[lg];B[mf];W[je];B[hf])
+(;W[oi]C[/"jueyi白15.6% | -7.0目];B[mg];W[lh];B[ng];W[ph];B[rf];W[rg];B[sf];W[ik];B[fk]))
+(;B[kr]C[/"jueyi黑84.8% | +7.5目];W[kq];B[lp];W[mr];B[ih];W[sg];B[si];W[ik];B[fk];W[kg])
+(;B[ih]C[/"jueyi黑84.4% | +7.5目];W[sg];B[si];W[ik];B[fk];W[kf];B[kj];W[if];B[hf];W[ie])
+(;B[hg]C[/"jueyi黑76.7% | +5.5目];W[mg];B[lf];W[kg];B[kj];W[ki];B[if];W[oi]))
+(;W[ik]C[/"jueyi白28.7% | -4.0目];B[fk];W[sg];B[si];W[ih];B[lk];W[je];B[ek];W[ic];B[cl])
+(;W[sg]C[/"jueyi白28.8% | -4.0目];B[si];W[ik];B[fk];W[ih];B[lk];W[je];B[ek];W[ic];B[cl])
+(;W[ih]C[/"jueyi白26.1% | -4.5目];B[ji];W[ii];B[ij];W[jj];B[kj];W[jg];B[hh];W[hg];B[jh]))
+(;B[ji]C[/"jueyi黑82.1% | +6.5目];W[jh];B[ih];W[jg];B[nh];W[ki];B[mg];W[jj];B[im];W[ik])
+(;B[nh]C[/"jueyi黑74.9% | +5.0目];W[ik];B[fk];W[ih];B[lk];W[mj];B[ji];W[kg];B[jh];W[jg])
+(;B[kr]C[/"jueyi黑72.0% | +4.5目];W[kq];B[lp];W[mr];B[ji];W[oi];B[nh];W[ph];B[nj];W[pk]))
+(;W[lj]C[/"jueyi白19.2% | -6.5目];B[ji];W[jh];B[ih];W[jg];B[nh];W[jj];B[ii];W[ki];B[kr])
+(;W[oi]C[/"jueyi白19.4% | -6.5目];B[nh];W[lj];B[mg];W[ph];B[nj];W[pk];B[qm];W[ol];B[pm])
+(;W[pi]C[/"jueyi白17.6% | -6.5目];B[ph];W[nh];B[oi];W[pk];B[qm];W[ik];B[fk];W[kj];B[lh]))
+(;B[ni]C[/"jueyi黑80.8% | +6.5目];W[lj];B[ji];W[jh];B[ih];W[oi];B[nh];W[ph];B[nj];W[pk])
+(;B[kr]C[/"jueyi黑68.3% | +4.0目];W[kq];B[lp];W[mr];B[ni];W[lj];B[ji];W[jj];B[nh])
+(;B[lj]C[/"jueyi黑34.6% | -2.0目];W[ph];B[pi];W[oh];B[oi];W[ni];B[mj];W[nj];B[rf];W[rg]))
+(;W[mh]C[/"jueyi白19.0% | -6.5目];B[ni];W[lj];B[ji];W[jh];B[ih];W[oi];B[nh];W[ph];B[nj])
+(;W[ik]C[/"jueyi白21.2% | -5.5目];B[fk];W[kl];B[kr];W[kq];B[lp];W[mr];B[jl];W[kj];B[mh])
+(;W[pi]C[/"jueyi白19.3% | -6.0目];B[ph];W[mh];B[ni];W[nh];B[oi];W[oh];B[lh];W[kj];B[kh]))
+(;B[sj]C[/"jueyi黑80.1% | +6.0目];W[kl];B[kr];W[kq];B[lp];W[ms];B[jl];W[ik];B[fk];W[mh]))
+(;W[mh]C[/"jueyi白34.3% | -3.5目];B[ni];W[oi];B[pj];W[nh];B[lj];W[mj];B[ki];W[nj];B[lh])
+(;W[pj]C[/"jueyi白23.3% | -5.5目];B[sj];W[mh];B[ni];W[lj];B[ji];W[oi];B[nh];W[ph];B[rf])
+(;W[pk]C[/"jueyi白19.3% | -6.0目];B[qm];W[mh];B[lj];W[sj];B[oi];W[ni];B[mj];W[oh];B[ph]))
+(;B[rk]C[/"jueyi黑68.5% | +4.0目];W[mh];B[ni];W[oi];B[pj];W[nh];B[lj];W[mj];B[ki];W[nj])
+(;B[sj]C[/"jueyi黑57.9% | +2.0目];W[mh];B[ni];W[lj];B[ji];W[jj];B[jh];W[rk];B[rl];W[pj])
+(;B[pj]C[/"jueyi黑17.7% | -6.0目];W[pk];B[qm];W[rk];B[ql];W[qn];B[rm];W[mh];B[ni];W[pi]))
+(;W[mh]C[/"jueyi白31.3% | -4.0目];B[ni];W[lj];B[ji];W[kg];B[nh];W[ih];B[ig];W[ii];B[jh])
+(;W[pk]C[/"jueyi白30.8% | -4.0目];B[rk];W[mj];B[mh];W[kj];B[lk];W[lj];B[ji];W[lh];B[oi])
+(;W[rj]C[/"jueyi白29.9% | -4.5目];B[rk];W[mh];B[ni];W[oi];B[pj];W[nh];B[ki];W[nj];B[lj]))
+(;B[kk]C[/"jueyi黑69.4% | +4.0目];W[pk];B[ql];W[mh];B[ni];W[rj];B[sj];W[rk];B[rl];W[nh])
+(;B[kr]C[/"jueyi黑55.1% | +1.5目];W[kq];B[lp];W[mr];B[kk];W[rj];B[rk];W[mh];B[ni];W[pj])
+(;B[mh]C[/"jueyi黑41.2% | -1.0目];W[rj];B[rk];W[sj];B[pj];W[pk];B[oj];W[pi];B[oi];W[ol]))
+(;W[li]C[/"jueyi白33.0% | -4.0目];B[kk];W[pk];B[rk];W[mj];B[mh];W[kj];B[ji];W[lh];B[lk])
+(;W[pk]C[/"jueyi白32.2% | -3.5目];B[rk];W[oi];B[pj];W[li];B[mh];W[ik];B[fk];W[kk];B[im])
+(;W[rj]C[/"jueyi白31.7% | -4.0目];B[rk];W[kk];B[lj];W[sj];B[pj];W[pk];B[oj];W[pi];B[si]))
+(;B[qk]C[/"jueyi黑67.0% | +3.5目];W[ii];B[kk];W[hh];B[hj];W[kh];B[lj];W[je];B[gb];W[mh])
+(;B[qm]C[/"jueyi黑47.7% | -0.5目];W[rj];B[qn];W[oi];B[oh];W[kk];B[im];W[ni];B[mj])
+(;B[ql]C[/"jueyi黑42.0% | -1.0目];W[rj];B[oi];W[oj];B[rm];W[ni];B[pi];W[mh];B[li];W[oh]))
+(;W[ii]C[/"jueyi白38.3% | -2.5目];B[hh];W[jl];B[kr];W[kq];B[lp];W[mr];B[im];W[li];B[mh])
+(;W[li]C[/"jueyi白37.6% | -3.0目];B[kk];W[qj];B[qm];W[mh];B[ni];W[lj];B[ji];W[pj];B[rj])
+(;W[kk]C[/"jueyi白37.2% | -3.0目];B[lj];W[qj];B[qk];W[rj];B[sj];W[ii];B[hh];W[rk];B[rl]))
+(;B[lj]C[/"jueyi黑76.1% | +5.0目];W[kl];B[im];W[lh];B[kj];W[mi];B[pk];W[jh];B[ih];W[pj])
+(;B[kr]C[/"jueyi黑74.9% | +5.0目];W[kq];B[lp];W[mr];B[lj];W[kl];B[im];W[lh];B[kj];W[mi])
+(;B[kk]C[/"jueyi黑70.2% | +4.0目];W[lj];B[gq];W[gr];B[kr];W[kq];B[lp];W[ms];B[lh];W[mh]))
+(;W[kq]C[/"jueyi白26.6% | -4.5目];B[lp];W[kr];B[kk];W[lj];B[lh];W[kh];B[lg];W[jl];B[ik])
+(;W[jq]C[/"jueyi白23.6% | -5.5目];B[lj];W[kl];B[im];W[lh];B[kj];W[mi];B[oi];W[jg];B[hg])
+(;W[qj]C[/"jueyi白26.0% | -5.0目];B[qk];W[jq];B[kk];W[kj];B[jj];W[lj];B[ji];W[rj];B[rk]))
+(;B[ln]C[/"jueyi黑73.6% | +4.5目];W[kq];B[lp];W[kr];B[kk];W[lj];B[lh];W[kh];B[lg];W[jl]))
+(;W[nn]C[/"jueyi白26.4% | -4.5目];B[ln];W[kq];B[lp];W[jq];B[lj];W[kl];B[im];W[lh];B[kj]))
+(;B[mn]C[/"jueyi黑72.9% | +4.5目];W[nn];B[ln];W[kq];B[lp];W[kr];B[kk];W[lj];B[lh];W[kh])
+(;B[gb]C[/"jueyi黑75.6% | +4.0目];W[jq];B[kk];W[mn];B[gc];W[ge];B[oo];W[on];B[nn];W[oq])
+(;B[hc]C[/"jueyi黑73.6% | +4.0目];W[jq];B[fb];W[fd];B[fc];W[gh];B[fi];W[fh];B[ff];W[hh]))
+(;W[ml]C[/"jueyi白26.1% | -5.0目];B[mn];W[nn];B[ln];W[kq];B[kk];W[lj];B[kj];W[qj];B[qk]))
+(;B[ml]C[/"jueyi黑91.7% | +7.0目];W[ll];B[mn];W[nl];B[nn];W[lp];B[lm];W[li];B[mp];W[kq])
+(;B[gb]C[/"jueyi黑89.1% | +6.5目];W[fb];B[gc];W[ga];B[ml];W[ll];B[lm];W[nl];B[mn];W[nn])
+(;B[kr]C[/"jueyi黑88.0% | +6.0目];W[lp];B[kq];W[ln];B[ml];W[ll];B[nl];W[lm];B[gr];W[er]))
+(;W[mn]C[/"jueyi白13.1% | -6.0目];B[gr];W[jq];B[jr];W[er];B[iq];W[jp];B[jo];W[ip];B[kq])
+(;W[lm]C[/"jueyi白11.9% | -6.0目];B[kn];W[lr];B[kk];W[qj];B[qm];W[pk];B[qk];W[rk];B[ql])
+(;W[lr]C[/"jueyi白12.3% | -6.5目];B[gb];W[fb];B[gc];W[ga];B[ml];W[ll];B[lm];W[nl];B[mn]))
+(;B[lm]C[/"jueyi黑94.0% | +8.5目];W[ml];B[mn];W[nn];B[ln];W[lr];B[kq];W[kr];B[kk];W[kj])
+(;B[mp]C[/"jueyi黑89.0% | +6.5目];W[mn];B[gr];W[gq];B[hq];W[jq];B[io];W[lr];B[hn];W[hp])
+(;B[ml]C[/"jueyi黑91.1% | +7.0目];W[ll];B[mn];W[nl];B[lm];W[lr];B[ml];W[kl];B[mp];W[jq]))
+(;W[eq]C[/"jueyi白7.2% | -8.0目];B[lm];W[ml];B[mn];W[nn];B[ln];W[lr];B[kq];W[kr];B[kk]))
+(;B[lm]C[/"jueyi黑94.7% | +8.5目];W[ml];B[mn];W[nn];B[ln];W[lr];B[kq];W[kr];B[iq];W[jr])
+(;B[ml]C[/"jueyi黑94.8% | +8.0目];W[ll];B[mn];W[nl];B[lm];W[lr];B[ml];W[kl];B[gb];W[mm])
+(;B[dr]C[/"jueyi黑90.1% | +6.5目];W[eq];B[mp];W[mn];B[gr];W[jq];B[jr];W[kr];B[iq];W[jp]))
+(;W[mn]C[/"jueyi白11.6% | -6.0目];B[hc];W[gb];B[dr];W[eq];B[gr];W[jq];B[jr];W[jp];B[jo])
+(;W[lp]C[/"jueyi白6.3% | -8.0目];B[lm];W[ml];B[mn];W[nn];B[ln];W[lr];B[kq];W[kr];B[iq])
+(;W[ln]C[/"jueyi白3.0% | -7.0目];B[kn];W[ml];B[oo];W[pk];B[ql];W[lr];B[nn];W[mn];B[kr]))
+(;B[mn]C[/"jueyi黑95.0% | +8.5目];W[ln];B[nn];W[oo];B[lm];W[qr];B[hg];W[ii];B[ih];W[ik])
+(;B[qr]C[/"jueyi黑88.9% | +6.5目];W[mn];B[dr];W[eq];B[gr];W[jq];B[jr];W[jp];B[jo];W[io])
+(;B[ml]C[/"jueyi黑88.9% | +6.5目];W[ln];B[ll];W[ql];B[qk];W[pm];B[pk];W[qr];B[oo];W[on]))
+(;W[mn]C[/"jueyi白21.1% | -4.5目];B[hc];W[gb];B[dr];W[eq];B[gr];W[jq];B[jr];W[er];B[iq])
+(;W[ln]C[/"jueyi白4.9% | -7.0目];B[kn];W[nl];B[ll];W[ml];B[nn];W[mn];B[oo];W[pk];B[ql])
+(;W[lm]C[/"jueyi白11.5% | -6.0目];B[oo];W[kn];B[lr];W[on];B[nn];W[mn];B[hr];W[qk];B[ql]))
+(;B[lm]C[/"jueyi黑92.3% | +8.0目];W[ml];B[mn];W[nn];B[ln];W[lr];B[kq];W[kr];B[kk];W[kj])
+(;B[mp]C[/"jueyi黑81.5% | +5.0目];W[mn];B[dr];W[eq];B[gr];W[jq];B[jp];W[iq];B[er];W[fr])
+(;B[ml]C[/"jueyi黑88.8% | +7.0目];W[ll];B[mn];W[nl];B[lm];W[nn];B[ml];W[ik];B[fk];W[mm]))
+(;W[ra]C[/"jueyi白8.6% | -7.5目];B[lm];W[ml];B[mn];W[nn];B[ln];W[lr];B[kq];W[kr];B[iq])
+(;W[qa]C[/"jueyi白8.4% | -7.5目];B[lm];W[ml];B[mn];W[nn];B[ln];W[lr];B[kq];W[kr];B[iq]))
+(;B[lm]C[/"jueyi黑93.0% | +8.0目];W[ml];B[mn];W[nn];B[ln];W[lr];B[kq];W[kr];B[iq];W[jr])
+(;B[ml]C[/"jueyi黑91.8% | +7.5目];W[ll];B[mn];W[nl];B[lm];W[nn];B[ml];W[ik];B[fk];W[mm])
+(;B[oc]C[/"jueyi黑91.2% | +7.5目];W[ra];B[lm];W[ml];B[mn];W[nn];B[ln];W[lr];B[kq];W[kr]))
+(;W[mn]C[/"jueyi白20.7% | -4.5目];B[hc];W[gb];B[dr];W[eq];B[gr];W[jq];B[jr];W[er];B[iq])
+(;W[ln]C[/"jueyi白4.3% | -7.0目];B[kn];W[ml];B[oo];W[lp];B[ko];W[kq];B[lr];W[jq];B[ip])
+(;W[kn]C[/"jueyi白11.5% | -6.5目];B[ml];W[ln];B[ll];W[in];B[oo];W[hg];B[gq];W[dr];B[im]))
+(;B[nm]C[/"jueyi黑80.7% | +5.0目];W[mn];B[hc];W[gb];B[dr];W[eq];B[gr];W[jq];B[jp];W[iq])
+(;B[hc]C[/"jueyi黑80.8% | +5.0目];W[gb];B[nm];W[mn];B[dr];W[eq];B[gr];W[jq];B[jr];W[er])
+(;B[oc]C[/"jueyi黑80.7% | +5.0目];W[ra];B[nm];W[mn];B[hc];W[gb];B[fc];W[fb];B[dr];W[eq]))
+(;W[nm]C[/"jueyi白43.5% | -1.5目];B[iq];W[rl];B[on];W[oo];B[po];W[pp];B[dr];W[eq];B[po])
+(;W[mo]C[/"jueyi白18.7% | -5.0目];B[nm];W[mn];B[dr];W[eq];B[gr];W[jq];B[jr];W[er];B[iq])
+(;W[pk]C[/"jueyi白20.9% | -4.5目];B[nm];W[mn];B[ql];W[kn];B[dr];W[eq];B[gr];W[jq];B[ip]))
+(;B[pl]C[/"jueyi黑55.7% | +1.5目];W[nm];B[dr];W[eq];B[gr];W[er];B[iq];W[mi];B[fi];W[ef])
+(;B[ol]C[/"jueyi黑53.7% | +1.0目];W[kn];B[ln];W[lm];B[iq];W[pl];B[pm];W[qm];B[on];W[oo])
+(;B[gb]C[/"jueyi黑52.5% | +1.0目];W[ql];B[gc];W[hg];B[nj];W[nk];B[oc];W[ra];B[dr];W[eq]))
+(;W[pl]C[/"jueyi白48.1% | -0.5目];B[gb];W[fb];B[ol];W[pk];B[nk];W[nj];B[ml];W[ll];B[ok])
+(;W[nm]C[/"jueyi白46.0% | -1.0目];B[gb];W[gc];B[hc];W[ib];B[on];W[oo];B[po];W[pp];B[oc])
+(;W[ok]C[/"jueyi白46.3% | -1.0目];B[ol];W[pl];B[pk];W[pm];B[nk];W[oj];B[ml];W[ll];B[nl]))
+(;B[ol]C[/"jueyi黑64.8% | +2.5目];W[pl];B[gb];W[fb];B[pk];W[kn];B[gr];W[dr];B[ln];W[lm])
+(;B[hc]C[/"jueyi黑59.0% | +1.5目];W[gb];B[ol];W[pl];B[pk];W[ok];B[nk];W[nl];B[oj];W[om])
+(;B[om]C[/"jueyi黑55.5% | +1.0目];W[pl];B[ol];W[ok];B[pk];W[pm];B[nk];W[oj];B[nl];W[mj]))
+(;W[sd]C[/"jueyi白38.8% | -2.0目];B[hc];W[gb];B[ol];W[pl];B[pk];W[kn];B[ln];W[lm];B[kl])
+(;W[qa]C[/"jueyi白32.1% | -3.0目];B[sa];W[pa];B[ol];W[nm];B[dr];W[eq];B[gr];W[er];B[iq]))
+(;B[sc]C[/"jueyi黑62.8% | +2.0目];W[sd];B[ol];W[pl];B[gb];W[fb];B[pk];W[kn];B[gr];W[dr])
+(;B[gb]C[/"jueyi黑55.4% | +1.0目];W[gc];B[hc];W[ib];B[fc];W[gd];B[fd];W[ge];B[fb];W[fe])
+(;B[om]C[/"jueyi黑53.5% | +1.0目];W[nm];B[on];W[oo];B[po];W[pp]))
+(;W[sb]C[/"jueyi白36.7% | -2.5目];B[sc];W[sd];B[ol];W[pl];B[gb];W[fb];B[pk];W[kn];B[gr])
+(;W[qa]C[/"jueyi白24.4% | -4.0目];B[sb];W[ra];B[rf];W[rg];B[sf];W[sc];B[gb];W[gc];B[hc])
+(;W[ra]C[/"jueyi白29.0% | -3.5目];B[sb];W[nb];B[oc];W[ob];B[mb];W[mc];B[lb];W[qa];B[rf]))
+(;B[rb]C[/"jueyi黑63.0% | +2.0目];W[sb];B[sc];W[sd];B[ol];W[pl];B[gb];W[fb];B[pk];W[kn]))
+(;W[pb]C[/"jueyi白35.3% | -2.5目];B[rb];W[sb];B[sc];W[sd];B[ol];W[pl];B[ok];W[om];B[qm]))
+(;B[qb]C[/"jueyi黑63.5% | +2.5目];W[pb];B[rb];W[sb];B[sc];W[sd];B[ol];W[pl];B[gb];W[fb])
+(;B[ol]C[/"jueyi黑55.3% | +1.0目];W[nm];B[qb];W[pb];B[rb];W[sb];B[sc];W[sd];B[dr];W[eq])
+(;B[om]C[/"jueyi黑54.3% | +1.0目];W[pl];B[ol];W[pk];B[ok];W[oj];B[pj]))
+(;W[mk]C[/"jueyi白37.2% | -2.0目];B[qb];W[pb];B[rb];W[sb];B[sc];W[sd];B[ol];W[pl];B[gb])
+(;W[oc]C[/"jueyi白25.3% | -4.0目];B[od];W[nb];B[mc];W[mk];B[qb];W[pa];B[oa];W[ob];B[rb])
+(;W[ol]C[/"jueyi白26.6% | -3.5目];B[qb];W[pb];B[rb];W[sb];B[sc];W[sd];B[mn];W[nn];B[ml]))
+(;B[rg]C[/"jueyi黑72.2% | +3.5目];W[rf];B[ol];W[mk];B[hc];W[ib];B[nl];W[ml];B[nn];W[mn])
+(;B[hc]C[/"jueyi黑70.9% | +3.5目];W[gb];B[fc];W[fb];B[ol];W[mk];B[qm];W[jq];B[lr];W[nm])
+(;B[ol]C[/"jueyi黑69.7% | +3.0目];W[mk];B[rg];W[pl];B[ok];W[om];B[qm];W[qn];B[nl];W[ml]))
+(;W[ol]C[/"jueyi白32.7% | -3.0目];B[qb];W[qi];B[ph];W[rg];B[qm];W[kn];B[iq];W[hr];B[ln])
+(;W[mk]C[/"jueyi白32.6% | -3.0目];B[qb];W[rg];B[qi];W[or];B[pr];W[jq];B[gb];W[fb];B[ol])
+(;W[jq]C[/"jueyi白32.5% | -3.0目];B[hc];W[gb];B[fc];W[fb];B[ol];W[mk];B[qm];W[pm];B[pl]))
+(;B[ri]C[/"jueyi黑67.7% | +3.0目];W[ol];B[qb];W[qi];B[ph];W[rg];B[qm];W[kn];B[iq];W[hr])
+(;B[qm]C[/"jueyi黑48.9% | -0.5目];W[pm];B[ri];W[ql];B[qb];W[qi];B[ph];W[rg];B[qj];W[pi])
+(;B[gb]C[/"jueyi黑56.5% | +1.5目];W[gc];B[hc];W[ib];B[ri];W[ol];B[fc];W[gd];B[fd];W[ge]))
+(;W[rh]C[/"jueyi白34.6% | -2.5目];B[ri];W[ol];B[qb];W[qi];B[ph];W[rg];B[qm];W[kn];B[ln])
+(;W[ol]C[/"jueyi白34.7% | -2.5目];B[qb];W[rh];B[ri];W[qi];B[ph];W[rg];B[qm];W[kn];B[ln])
+(;W[mk]C[/"jueyi白33.7% | -2.5目];B[hc];W[gb];B[fc];W[fb];B[ol];W[rh];B[ri];W[ql];B[rg]))
+(;B[hc]C[/"jueyi黑78.1% | +4.5目];W[ib];B[rh];W[pc];B[ol];W[pl];B[pk];W[kn];B[io];W[hn])
+(;B[ol]C[/"jueyi黑72.9% | +3.5目];W[rh];B[ri];W[kn];B[iq];W[hr];B[ir];W[hq];B[dr];W[eq])
+(;B[iq]C[/"jueyi黑74.1% | +3.5目];W[hr];B[lm];W[ml];B[qb];W[rh];B[ri];W[rg];B[qi];W[kb]))
+(;W[mm]C[/"jueyi白22.5% | -4.5目];B[hc];W[ib];B[rh];W[pc];B[ol];W[om];B[nl];W[ml];B[dr])
+(;W[rh]C[/"jueyi白22.4% | -4.0目];B[hc];W[gb];B[ri];W[mm];B[iq];W[hr];B[lm];W[ml];B[qb])
+(;W[nl]C[/"jueyi白22.5% | -4.0目];B[iq];W[rh];B[ri];W[pc];B[dr];W[eq];B[gr];W[er];B[hc]))
+(;B[rp]C[/"jueyi黑77.9% | +4.5目];W[mm];B[hc];W[ib];B[rh];W[pc];B[ol];W[om];B[nl];W[ml])
+(;B[rh]C[/"jueyi黑74.5% | +4.0目];W[pc];B[rp];W[nl];B[hc];W[gb];B[fc];W[fb];B[qm];W[qn]))
+(;W[rn]C[/"jueyi白22.3% | -4.5目];B[rp];W[mm];B[hc];W[ib];B[rh];W[pc];B[ol];W[om];B[nl]))
+(;B[rh]C[/"jueyi黑80.6% | +4.5目];W[pc];B[oo];W[on];B[nn];W[qr];B[oq];W[rp];B[nm];W[hg])
+(;B[rp]C[/"jueyi黑75.7% | +4.0目];W[mm];B[hc];W[gb];B[ol];W[rh];B[ri];W[ql];B[qb];W[rg])
+(;B[ro]C[/"jueyi黑74.7% | +4.0目];W[rn];B[rp];W[mm];B[iq];W[hr];B[lm];W[ml];B[qb];W[rh]))
+(;W[nq]C[/"jueyi白20.3% | -4.5目];B[rh];W[pc];B[oo];W[on];B[nn];W[qr];B[oq];W[rp];B[nm])
+(;W[nr]C[/"jueyi白13.6% | -6.5目];B[rh];W[pc];B[oo];W[on];B[nn];W[mn];B[nm];W[mo];B[oq])
+(;W[oq]C[/"jueyi白12.7% | -6.0目];B[hc];W[gb];B[fc];W[fb];B[ol];W[mm];B[lm];W[ll];B[ml]))
+(;B[lo]C[/"jueyi黑77.3% | +4.0目];W[nq];B[ro];W[rn];B[rp];W[mm];B[hc];W[ib];B[rh];W[pc]))
+(;W[np]C[/"jueyi白21.1% | -4.5目];B[lo];W[nq];B[oo];W[on];B[rh];W[pc];B[nn];W[qr];B[oq])
+(;W[lo]C[/"jueyi白12.2% | -5.5目];B[mr];W[pc];B[rh];W[qk];B[qm];W[rp];B[rq];W[pm];B[jq]))
+(;B[mp]C[/"jueyi黑78.3% | +4.5目];W[np];B[lo];W[nq];B[oo];W[on];B[rh];W[pc];B[nn];W[qr])
+(;B[rh]C[/"jueyi黑75.4% | +4.0目];W[pc];B[mp];W[np];B[lo];W[nq];B[ro];W[rn];B[rp];W[mm])
+(;B[mr]C[/"jueyi黑60.9% | +2.0目];W[nq];B[lo];W[nr];B[kr];W[mp]))
+(;W[rh]C[/"jueyi白24.9% | -4.0目];B[ri];W[mq];B[mp];W[np];B[lo];W[nq];B[ro];W[rn];B[rp])
+(;W[mq]C[/"jueyi白23.9% | -4.0目];B[mp];W[np];B[lo];W[nq];B[ro];W[rn];B[rp];W[mm];B[hc])
+(;W[lo]C[/"jueyi白14.3% | -5.0目];B[rh];W[pc];B[mq];W[pk];B[nk];W[ro];B[nm];W[rj];B[pj]))
+(;B[mp]C[/"jueyi黑83.6% | +5.0目];W[np];B[nq];W[mo];B[mq];W[rh];B[ri];W[ok];B[pk];W[pc])
+(;B[kq]C[/"jueyi黑82.2% | +4.5目];W[pc];B[hc];W[gb];B[fc];W[fb];B[ol];W[ql];B[nm];W[rh])
+(;B[rh]C[/"jueyi黑82.3% | +4.5目];W[pc];B[mp];W[qk];B[hc];W[gb];B[fc];W[fb];B[ol];W[ro]))
+(;W[pc]C[/"jueyi白25.0% | -4.0目];B[hc];W[gb];B[fc];W[fb];B[pl];W[ol];B[ok];W[pk];B[ql])
+(;W[rh]C[/"jueyi白22.6% | -4.0目];B[ri];W[ok];B[nm];W[pl];B[qm];W[oo];B[ro];W[rp];B[rn])
+(;W[ok]C[/"jueyi白21.1% | -4.0目];B[rh];W[pc];B[hc];W[gb];B[fc];W[fb];B[ql];W[pl];B[qk]))
+(;B[hc]C[/"jueyi黑80.3% | +4.5目];W[ib];B[nm];W[rh];B[rg];W[rf];B[ri];W[oo];B[np];W[ol])
+(;B[nm]C[/"jueyi黑78.9% | +4.5目];W[rh];B[rg];W[rf];B[ri];W[ol];B[oo];W[on];B[nn];W[qk])
+(;B[lp]C[/"jueyi黑77.0% | +4.0目];W[rh];B[ri];W[qi];B[ph];W[rj];B[rg];W[si];B[rf];W[pc]))
+(;W[pk]C[/"jueyi白26.6% | -3.5目];B[hc];W[gb];B[om];W[pm];B[oj];W[pc];B[lp];W[hg];B[fc])
+(;W[rh]C[/"jueyi白24.6% | -4.0目];B[ri];W[qi];B[ph];W[rj];B[rg];W[si];B[rf];W[pc];B[pb])
+(;W[no]C[/"jueyi白22.9% | -4.0目];B[nm];W[rh];B[rg];W[rf];B[ri];W[ol];B[oo];W[on];B[nn]))
+(;B[hc]C[/"jueyi黑78.0% | +4.5目];W[gb];B[fc];W[fb];B[rh];W[pc];B[rp];W[ro];B[pl];W[qp])
+(;B[rp]C[/"jueyi黑75.3% | +4.0目];W[rh];B[ri];W[qi];B[ph];W[rj];B[rg];W[si];B[rf];W[pc])
+(;B[qp]C[/"jueyi黑74.4% | +3.5目];W[pk];B[hc];W[gb];B[om];W[pm];B[oj];W[pc];B[lp];W[hg]))
+(;W[rh]C[/"jueyi白28.4% | -3.5目];B[ri];W[rq];B[hc];W[ib];B[pm];W[oo];B[on];W[po];B[no])
+(;W[pc]C[/"jueyi白28.0% | -3.5目];B[hc];W[rh];B[qb];W[qi];B[ph];W[gb];B[rg];W[pm];B[qp])
+(;W[pl]C[/"jueyi白26.9% | -3.5目];B[hc];W[gb];B[fc];W[fb];B[on];W[qm];B[qp];W[rh];B[rg]))
+(;B[fh]C[/"jueyi黑79.6% | +4.5目];W[ef];B[fi];W[rh];B[ri];W[qi];B[ph];W[rj];B[rg];W[pc])
+(;B[fi]C[/"jueyi黑79.7% | +4.5目];W[ef];B[fh];W[rh];B[ri];W[qi];B[ph];W[rj];B[rg];W[pc])
+(;B[ce]C[/"jueyi黑76.6% | +4.0目];W[rh];B[ri];W[rq];B[pm];W[oo];B[on];W[po];B[no];W[qm]))
+(;W[cb]C[/"jueyi白20.4% | -4.5目];B[fh];W[ef];B[fi];W[rh];B[ri];W[qi];B[ph];W[rj];B[rg])
+(;W[rh]C[/"jueyi白17.3% | -5.0目];B[ri];W[rq];B[pm];W[oo];B[lq];W[pc];B[rg];W[rf];B[qb])
+(;W[ad]C[/"jueyi白8.9% | -6.5目];B[fh];W[ef];B[fi];W[eg];B[ac];W[ah];B[ag];W[be];B[ce]))
+(;B[fh]C[/"jueyi黑83.7% | +5.0目];W[ef];B[fi];W[eg];B[bc];W[cb];B[ce];W[rh];B[ri];W[rq])
+(;B[fi]C[/"jueyi黑82.3% | +5.0目];W[fh];B[bc];W[cb];B[ce];W[rh];B[ri];W[rq];B[pm];W[oo])
+(;B[rh]C[/"jueyi黑80.7% | +4.5目];W[pc];B[fh];W[ef];B[fi];W[eg];B[bc];W[cb];B[be];W[ql]))
+(;W[rh]C[/"jueyi白15.7% | -5.5目];B[ri];W[bb];B[fh];W[ef];B[fi];W[eg];B[bc];W[cb];B[ce])
+(;W[bb]C[/"jueyi白15.9% | -5.0目];B[fh];W[ef];B[fi];W[eg];B[bc];W[cb];B[ce];W[rh];B[ri])
+(;W[pl]C[/"jueyi白12.4% | -6.0目];B[qb];W[rh];B[ri];W[rg];B[qi];W[rq];B[kq]))
+(;B[qh]C[/"jueyi黑84.3% | +5.5目];W[rh];B[ri];W[bb];B[fh];W[ef];B[fi];W[eg];B[bc];W[cb])
+(;B[fi]C[/"jueyi黑81.9% | +5.0目];W[fh];B[qh];W[rh];B[ri];W[bb];B[bc];W[cb];B[ce];W[rq])
+(;B[hc]C[/"jueyi黑81.0% | +5.0目];W[bb];B[fh];W[ef];B[fi];W[eg];B[bc];W[cb];B[ac];W[ib]))
+(;W[qi]C[/"jueyi白17.7% | -5.0目];B[fc];W[cb];B[bb];W[gd];B[gc];W[hc];B[fd];W[ge];B[fe])
+(;W[lp]C[/"jueyi白18.4% | -5.5目];B[qh];W[rh];B[ri];W[rq];B[fc];W[gd];B[gc];W[hc];B[fd])
+(;W[lq]C[/"jueyi白18.3% | -5.0目];B[qh];W[rh];B[ri];W[qi];B[ph];W[rj];B[rg];W[pc];B[qm]))
+(;B[hc]C[/"jueyi黑87.4% | +6.0目];W[gb];B[fc];W[fb];B[db];W[eb];B[kb];W[ib];B[kc];W[qi])
+(;B[ic]C[/"jueyi黑82.8% | +5.5目];W[ib];B[kc];W[db];B[qh];W[rh];B[ri];W[bb];B[fh];W[ef])
+(;B[kc]C[/"jueyi黑80.7% | +5.0目];W[qi];B[hc];W[gc];B[gd];W[fc];B[ib];W[ia];B[ic];W[lq]))
+(;W[hg]C[/"jueyi白22.4% | -4.5目];B[hc];W[qi];B[fc];W[gh];B[fk];W[ek];B[jh];W[db];B[cb])
+(;W[db]C[/"jueyi白22.0% | -4.5目];B[qh];W[rh];B[ri];W[pc];B[rg];W[rq];B[pm];W[oo];B[rf])
+(;W[qi]C[/"jueyi白21.4% | -4.5目];B[gc];W[hh];B[fh];W[ef];B[fi];W[gb];B[fb];W[cb];B[bb]))
+(;B[jc]C[/"jueyi黑77.8% | +4.5目];W[hg];B[qh];W[rh];B[ri];W[pc];B[rg];W[rq];B[kq];W[rf])
+(;B[qh]C[/"jueyi黑72.2% | +3.5目];W[rh];B[ri];W[jc];B[qp];W[ie];B[fi];W[ef];B[hf];W[if])
+(;B[hc]C[/"jueyi黑71.1% | +3.5目];W[ib];B[fc];W[gb];B[fe];W[fd];B[ed];W[jd];B[fb];W[eb]))
+(;W[hg]C[/"jueyi白26.2% | -4.0目];B[fc];W[db];B[ef];W[gd];B[fh];W[ff];B[fi];W[gc];B[hc])
+(;W[db]C[/"jueyi白26.0% | -4.0目];B[qh];W[rh];B[ri];W[pc];B[rg];W[bb];B[fh];W[ef];B[fi])
+(;W[hh]C[/"jueyi白26.0% | -4.0目];B[fh];W[ef];B[fi];W[gg];B[jd];W[ie];B[id];W[lq];B[lp]))
+(;B[hi]C[/"jueyi黑73.9% | +4.0目];W[hg];B[fc];W[db];B[ef];W[gd];B[fh];W[ff];B[fi];W[gc])
+(;B[fk]C[/"jueyi黑59.0% | +1.5目];W[if];B[ek];W[cl];B[fi];W[fh];B[hi];W[gf];B[jd];W[lq])
+(;B[fi]C[/"jueyi黑53.9% | +1.0目];W[fh];B[hi];W[hg];B[fc];W[jg];B[je];W[gd];B[gc];W[he]))
+(;W[cb]C[/"jueyi白81.0% | +4.5目];B[bb];W[hi];B[bk];W[bn];B[dr];W[eq];B[ap];W[be];B[ce])
+(;W[hi]C[/"jueyi白76.2% | +4.0目];B[fk];W[cl];B[bk];W[be];B[ce];W[cf];B[an];W[bl];B[al])
+(;W[be]C[/"jueyi白75.6% | +4.0目];B[ce];W[cf];B[bd];W[hi];B[fk];W[cl];B[fi];W[fh];B[hg]))
+(;B[hk]C[/"jueyi黑19.2% | -4.5目];W[cb];B[bb];W[hi];B[dr];W[eq];B[ap];W[be];B[ce];W[cf])
+(;B[fk]C[/"jueyi黑17.0% | -5.0目];W[cl];B[hk];W[cb];B[bb];W[hi];B[fi];W[fh];B[hg];W[ik])
+(;B[ek]C[/"jueyi黑6.8% | -7.0目];W[cl];B[hk];W[hj];B[fk];W[fi];B[dl];W[bk];B[hi];W[ij]))
+(;W[dk]C[/"jueyi白80.6% | +4.5目];B[hk];W[cb];B[bb];W[hi];B[bk];W[bn];B[dr];W[eq];B[ap])
+(;W[cl]C[/"jueyi白77.0% | +4.0目];B[hk];W[hi];B[hj];W[dk];B[il];W[hg];B[bk];W[bn];B[dr])
+(;W[cb]C[/"jueyi白80.6% | +4.5目];B[bb];W[dk];B[hk];W[hi];B[bk];W[cl];B[hj];W[bn];B[dr]))
+(;B[gm]C[/"jueyi黑20.0% | -4.5目];W[dk];B[hk];W[cb];B[bb];W[hi];B[dr];W[eq];B[ap];W[be]))
+(;W[hl]C[/"jueyi白79.9% | +4.5目];B[gm];W[dk];B[hk];W[cb];B[bb];W[hi];B[dr];W[eq];B[ap])
+(;W[dk]C[/"jueyi白51.5% | +0.5目];B[ek];W[cl];B[hk];W[hi];B[bk];W[bn];B[an];W[am];B[ao]))
+(;B[hl]C[/"jueyi黑38.0% | -1.5目];W[dk];B[hi];W[fm];B[en];W[gm];B[hn];W[hm];B[in];W[il])
+(;B[hj]C[/"jueyi黑26.8% | -3.5目];W[gm];B[hn];W[il];B[io];W[ip];B[im];W[ik];B[hg];W[jo])
+(;B[fm]C[/"jueyi黑24.3% | -3.5目];W[hl];B[gm];W[dk];B[hk];W[hi];B[bk];W[cl];B[hj];W[be]))
+(;W[dm]C[/"jueyi白63.6% | +1.5目];B[hl];W[fm];B[en];W[dk];B[gh];W[fh];B[gg];W[ff];B[gf])
+(;W[gm]C[/"jueyi白36.5% | -2.5目];B[hl];W[hk];B[fm];W[dk];B[ek];W[fk];B[hj];W[ik];B[dm])
+(;W[hl]C[/"jueyi白25.7% | -4.5目];B[hj];W[dm];B[gm];W[ek];B[hk];W[hg];B[qh];W[rh];B[ri]))
+(;B[hk]C[/"jueyi黑81.3% | +5.5目];W[gm];B[fk];W[fm];B[hn];W[hm];B[in];W[dm];B[en];W[im])
+(;B[hj]C[/"jueyi黑75.7% | +5.0目];W[gm];B[hn];W[il];B[in];W[io];B[bk];W[dm];B[cl];W[dl])
+(;B[dl]C[/"jueyi黑41.9% | -1.0目];W[dm];B[hl];W[dk];B[hi];W[fm];B[en];W[gm];B[hn];W[hm]))
+(;W[hi]C[/"jueyi白23.6% | -4.5目];B[hn];W[bn];B[hj];W[ii];B[io];W[ip];B[jp];W[iq];B[jq])
+(;W[gk]C[/"jueyi白20.9% | -5.5目];B[hk];W[gm];B[fk];W[fm];B[hn];W[hm];B[in];W[dm];B[en])
+(;W[hn]C[/"jueyi白22.6% | -5.0目];B[gm];W[bk];B[hi];W[gh];B[al];W[hj];B[hk];W[ij];B[jk]))
+(;B[gl]C[/"jueyi黑76.9% | +5.0目];W[hi];B[hj];W[bn];B[hn];W[ii];B[dr];W[eq];B[io];W[ip])
+(;B[hn]C[/"jueyi黑63.5% | +2.5目];W[hl];B[gl];W[gk];B[hj];W[in];B[im];W[hk];B[dr];W[eq])
+(;B[bk]C[/"jueyi黑38.9% | -1.5目];W[hl];B[hn];W[in];B[dl];W[dk];B[gl]))
+(;W[fl]C[/"jueyi白23.3% | -5.0目];B[gl];W[hi];B[hj];W[hn];B[gm];W[bn];B[dr];W[eq];B[ap])
+(;W[cb]C[/"jueyi白22.8% | -5.0目];B[bb];W[fl];B[gl];W[gk];B[hk];W[gm];B[fk];W[fm];B[hn])
+(;W[ek]C[/"jueyi白13.6% | -6.5目];B[fl];W[dm];B[hi];W[gh];B[bk];W[bl];B[bj];W[ck];B[hh]))
+(;B[em]C[/"jueyi黑76.7% | +5.0目];W[fl];B[gl];W[hi];B[hn];W[bn];B[hj];W[ii];B[io];W[ip])
+(;B[dm]C[/"jueyi黑38.9% | -1.5目];W[dl];B[hn];W[gl];B[io];W[ip];B[hi];W[in])
+(;B[dr]C[/"jueyi黑59.1% | +2.0目];W[eq];B[em];W[fl];B[gl];W[gk];B[hj];W[hk];B[dl];W[dm]))
+(;W[br]C[/"jueyi白23.5% | -5.0目];B[em];W[fl];B[gl];W[hi];B[hn];W[bn];B[hj];W[ii];B[io])
+(;W[cb]C[/"jueyi白24.3% | -5.0目];B[bb];W[br];B[em];W[fl];B[gl];W[gk];B[hk];W[gm];B[fk]))
+(;B[em]C[/"jueyi黑75.8% | +4.5目];W[fl];B[gl];W[hi];B[hj];W[bn];B[cr];W[br];B[hn];W[ii])
+(;B[cr]C[/"jueyi黑73.1% | +4.0目];W[br];B[em];W[fl];B[gl];W[hn];B[gm];W[bk];B[dl];W[hi])
+(;B[dm]C[/"jueyi黑37.7% | -1.5目];W[dl];B[hn];W[gl];B[in];W[io];B[hi];W[il];B[em];W[fl]))
+(;W[em]C[/"jueyi白40.4% | -2.0目];B[en];W[bn];B[cr];W[br];B[hi];W[gh];B[hn];W[hj];B[io])
+(;W[cb]C[/"jueyi白40.9% | -2.0目];B[bb];W[em];B[en];W[hj];B[hi];W[gh];B[hk];W[ij];B[ik])
+(;W[bn]C[/"jueyi白38.9% | -2.0目];B[cr];W[br];B[dr];W[eq];B[ap];W[er];B[dl];W[bk];B[hi]))
+(;B[bo]C[/"jueyi黑59.8% | +2.0目];W[em];B[en];W[bn];B[cr];W[br];B[hi];W[gh];B[hn];W[hj])
+(;B[hi]C[/"jueyi黑44.2% | -0.5目];W[en];B[fi];W[hc];B[ic];W[gc];B[id];W[ef];B[dl];W[em])
+(;B[dl]C[/"jueyi黑29.2% | -2.5目];W[bn];B[hi];W[hf];B[qh];W[rh];B[ri];W[pc];B[rg];W[rq]))
+(;W[bn]C[/"jueyi白58.8% | +0.5目];B[hi];W[ig];B[cl];W[dm];B[dl];W[bl];B[cm];W[bm];B[fe])
+(;W[dm]C[/"jueyi白50.2% | +0.5目];B[bo];W[en];B[cm];W[dl];B[cl];W[ek];B[cr];W[br];B[fl])
+(;W[cm]C[/"jueyi白48.6% | -0.5目];B[bo];W[em];B[en];W[hj];B[hi];W[gh];B[hk];W[ij];B[bk]))
+(;B[ch]C[/"jueyi黑41.7% | -0.5目];W[bn];B[hi];W[ig];B[cl];W[dm];B[dl];W[bl];B[cm];W[bm]))
+(;W[bi]C[/"jueyi白58.2% | +0.5目];B[ch];W[bn];B[hi];W[ig];B[cl];W[dm];B[dk];W[cm];B[fc])
+(;W[dm]C[/"jueyi白51.3% | +0.5目];B[hi];W[bo];B[fi];W[ef];B[fc];W[hg];B[fh];W[eb];B[cb])
+(;W[cm]C[/"jueyi白46.8% | -1.0目];B[bo];W[em];B[en];W[bi];B[ch];W[hj];B[hi];W[gh];B[hk]))
+(;B[dm]C[/"jueyi黑44.1% | -0.5目];W[gj];B[cr];W[br];B[gk];W[el];B[fk];W[cl];B[hn];W[hk])
+(;B[gj]C[/"jueyi黑42.0% | -0.5目];W[bi];B[ch];W[bn];B[hi];W[ig];B[cl];W[dm];B[dl];W[bl])
+(;B[bm]C[/"jueyi黑44.2% | -0.5目];W[bi];B[ch];W[fl];B[cr];W[br];B[el];W[em];B[dl];W[jd]))
+(;W[gi]C[/"jueyi白56.7% | +0.5目];B[dm];W[cl];B[bo];W[bi];B[ch];W[ek];B[gj];W[gl];B[hl])
+(;W[dm]C[/"jueyi白39.5% | -2.0目];B[em];W[gi];B[bo];W[bi];B[ch];W[el];B[fl];W[ek];B[fk])
+(;W[bi]C[/"jueyi白27.6% | -4.0目];B[fh];W[ef];B[fi];W[eg];B[ch];W[cm];B[dl];W[cl];B[bo]))
+(;B[fj]C[/"jueyi黑43.4% | -0.5目];W[gi];B[dm];W[cl];B[bo];W[bi];B[ch];W[ek];B[gj];W[gl])
+(;B[dm]C[/"jueyi黑39.1% | -1.0目];W[bi];B[ch];W[dl];B[fj];W[cm];B[fh];W[ef];B[fi];W[fl])
+(;B[ek]C[/"jueyi黑30.5% | -2.5目];W[dl];B[cm];W[cl]))
+(;W[fg]C[/"jueyi白56.0% | +0.5目];B[fj];W[gi];B[dm];W[cl];B[bo];W[bi];B[ch];W[ek];B[gj])
+(;W[bi]C[/"jueyi白52.1% | +0.5目];B[ch];W[fg];B[fj];W[dm];B[em];W[el];B[fl];W[bo];B[cn])
+(;W[gi]C[/"jueyi白42.9% | -1.5目];B[ek];W[dl];B[fg];W[gh];B[gg];W[gk];B[gc];W[bi];B[ch]))
+(;B[bh]C[/"jueyi黑43.5% | -0.5目];W[fg];B[fj];W[gi];B[dm];W[cl];B[bo];W[bi];B[ch];W[ek])
+(;B[bi]C[/"jueyi黑37.3% | -1.5目];W[gi];B[ek];W[cb];B[bh];W[em];B[en];W[bo];B[fg];W[gh]))
+(;W[df]C[/"jueyi白56.5% | +0.5目];B[bh];W[fg];B[fj];W[gi];B[dm];W[gj];B[cr];W[br];B[gk]))
+(;B[bi]C[/"jueyi黑45.9% | -0.5目];W[eg];B[fj];W[bj];B[ci];W[cm];B[dm];W[dl];B[em];W[hg])
+(;B[eg]C[/"jueyi黑43.6% | -0.5目];W[df];B[bh];W[fg];B[fj];W[gi];B[gj];W[bi];B[ch];W[bn]))
+(;W[cj]C[/"jueyi白54.8% | +0.5目];B[bi];W[eg];B[fj];W[bj];B[ci];W[cm];B[dm];W[dl];B[em])
+(;W[eg]C[/"jueyi白54.5% | +0.5目];B[fj];W[cj];B[bi];W[bj];B[ci];W[cm];B[dm];W[dl];B[em])
+(;W[bo]C[/"jueyi白47.5% | -1.0目];B[fj];W[eg];B[cm];W[cj]))
+(;B[dh]C[/"jueyi黑44.9% | -0.5目];W[cj];B[bi];W[eg];B[fj];W[bj];B[ci];W[cm];B[dm];W[dl])
+(;B[ch]C[/"jueyi黑39.2% | -1.0目];W[dk];B[fj];W[dm];B[el];W[em];B[fl];W[cm];B[gh];W[hf])
+(;B[cr]C[/"jueyi黑32.8% | -2.0目];W[bo];B[cm];W[bm];B[bn];W[an];B[cn];W[bl];B[br];W[cl]))
+(;W[bq]C[/"jueyi白55.0% | +0.5目];B[dh];W[cj];B[bi];W[eg];B[fj];W[bj];B[ci];W[cm];B[dm])
+(;W[bo]C[/"jueyi白54.0% | +0.5目];B[cm];W[bm];B[bn];W[an];B[cn];W[bq];B[dh];W[bl];B[ek]))
+(;B[dh]C[/"jueyi黑46.0% | -0.5目];W[eg];B[cq];W[bq];B[fj];W[cj];B[bi];W[cm];B[dm];W[dl])
+(;B[cq]C[/"jueyi黑45.7% | -0.5目];W[bq];B[dh];W[cj];B[eg];W[df];B[bh];W[fg];B[fj];W[gi])
+(;B[ch]C[/"jueyi黑35.1% | -2.0目];W[dk];B[fj];W[cm];B[gh];W[hf];B[dm];W[dl];B[bm];W[fl]))
+(;W[bo]C[/"jueyi白55.3% | +0.5目];B[dh];W[eg];B[cm];W[fj];B[cq];W[bm];B[bn];W[an];B[cn])
+(;W[dj]C[/"jueyi白54.3% | +0.5目];B[dh];W[cj];B[eg];W[df];B[bh];W[fg];B[fj];W[gi];B[cq])
+(;W[dm]C[/"jueyi白55.3% | +0.5目];B[dh];W[eg];B[cq];W[bq];B[em];W[bo];B[dl];W[fj];B[cm]))
+(;B[cq]C[/"jueyi黑49.6% | -0.5目];W[bq];B[cr];W[bo];B[cm];W[dm];B[cn];W[br];B[dj];W[if])
+(;B[dj]C[/"jueyi黑42.8% | -0.5目];W[bo];B[hg];W[cb];B[bb];W[ej];B[dk];W[dm];B[hj];W[ek])
+(;B[ej]C[/"jueyi黑44.9% | -0.5目];W[bo];B[dh];W[eg];B[cm];W[fj];B[cq];W[cr];B[fk];W[gj]))
+(;W[bo]C[/"jueyi白58.2% | +0.5目];B[hg];W[ei];B[dj];W[cb];B[bb];W[ej];B[dk];W[dm];B[hj])
+(;W[ei]C[/"jueyi白51.5% | +0.5目];B[cq];W[bq];B[cr];W[bo];B[cm];W[dm];B[cn];W[br];B[dj])
+(;W[if]C[/"jueyi白55.3% | +0.5目];B[dh];W[bo];B[hf];W[cb]))
+(;B[di]C[/"jueyi黑42.4% | -0.5目];W[bo];B[hg];W[ei];B[dj];W[cb];B[bb];W[ej];B[dk];W[dm])
+(;B[hg]C[/"jueyi黑42.6% | -0.5目];W[bo];B[qh];W[rh];B[ri];W[pc];B[rg];W[rf];B[qb];W[pb])
+(;B[qh]C[/"jueyi黑42.7% | -0.5目];W[rh];B[ri];W[pc];B[hg];W[bo];B[rg];W[rf];B[qb];W[pb]))
+(;W[ho]C[/"jueyi白57.9% | +0.5目];B[hg];W[bo];B[qh];W[rh];B[ri];W[pc];B[rg];W[rf];B[qb])
+(;W[bo]C[/"jueyi白56.5% | +0.5目];B[ho];W[hn];B[gq];W[hp];B[io];W[gp];B[jq];W[in];B[jo])
+(;W[hn]C[/"jueyi白54.2% | +0.5目];B[cq];W[bo];B[dr];W[eq];B[bq];W[cn];B[dm];W[cm];B[dl]))
+(;B[gn]C[/"jueyi黑42.3% | -0.5目];W[ho];B[di];W[bo];B[hg];W[ei];B[dj];W[cb];B[bb];W[ej])
+(;B[cq]C[/"jueyi黑41.0% | -1.0目];W[bo];B[dr];W[eq];B[bq];W[bm];B[dm];W[ck];B[gn];W[ho])
+(;B[qh]C[/"jueyi黑41.0% | -1.0目];W[rh];B[gn];W[ho];B[ri];W[pc];B[cq];W[bo]))
+(;W[go]C[/"jueyi白57.6% | +0.5目];B[gn];W[ho];B[di];W[bo];B[hg];W[ei];B[dj];W[cb];B[bb])
+(;W[bo]C[/"jueyi白51.8% | +0.5目];B[go];W[fp];B[gn];W[iq];B[qh];W[rh];B[ri];W[pc];B[hg])
+(;W[gn]C[/"jueyi白54.4% | +0.5目];B[go];W[fp];B[bo];W[fm];B[en];W[gm];B[cq];W[bq];B[cr]))
+(;B[fn]C[/"jueyi黑42.5% | -0.5目];W[go];B[gn];W[ho];B[hg];W[bo];B[di];W[ei];B[dj];W[cb]))
+(;W[fo]C[/"jueyi白57.7% | +0.5目];B[fn];W[go];B[gn];W[ho];B[hg];W[bo];B[di];W[ei];B[dj])
+(;W[bo]C[/"jueyi白49.4% | -0.5目];B[gp];W[fp];B[fo];W[go];B[gq];W[fr];B[ip];W[ho];B[cq])
+(;W[jc]C[/"jueyi白50.5% | +0.5目];B[gp];W[gq];B[hp];W[hq];B[ie];W[hb];B[ip];W[jq];B[qh]))
+(;B[eo]C[/"jueyi黑42.3% | -0.5目];W[fo];B[fn];W[go];B[gn];W[ho];B[di];W[bo];B[hg];W[ei])
+(;B[hg]C[/"jueyi黑43.6% | -0.5目];W[eo];B[di];W[ei];B[dj];W[je];B[ie];W[jf];B[jd];W[kd])
+(;B[qh]C[/"jueyi黑43.7% | -0.5目];W[rh];B[ri];W[pc];B[eo];W[fo];B[fn];W[go];B[gn];W[ho]))
+(;W[bp]C[/"jueyi白56.7% | +0.5目];B[hg];W[eo];B[di];W[cb];B[bb];W[ei];B[dj];W[jd];B[jg]))
+(;B[do]C[/"jueyi黑43.2% | -0.5目];W[bp];B[hg];W[eo];B[di];W[ei];B[dj];W[je];B[ie];W[jf]))
+(;W[ep]C[/"jueyi白56.7% | +0.5目];B[do];W[bp];B[hg];W[jd];B[jg];W[eo];B[di];W[cb];B[bb])
+(;W[bp]C[/"jueyi白55.7% | +0.5目];B[do];W[bo];B[qh];W[rh];B[ri];W[pc];B[hg];W[ch];B[di]))
+(;B[cq]C[/"jueyi黑44.1% | -0.5目];W[bq];B[cr];W[ep];B[do];W[co];B[dn];W[cn];B[dm];W[cm])
+(;B[qh]C[/"jueyi黑44.7% | -0.5目];W[rh];B[ri];W[pc];B[cq];W[bq];B[cr];W[ep];B[do];W[co])
+(;B[co]C[/"jueyi黑43.4% | -0.5目];W[bp];B[do];W[ep];B[eo];W[fo];B[fn];W[go];B[gn];W[ho]))
+(;W[dq]C[/"jueyi白55.8% | +0.5目];B[cq];W[bq];B[cr];W[ep];B[do];W[co];B[dn];W[cn];B[dm])
+(;W[do]C[/"jueyi白54.7% | +0.5目];B[cq];W[dq];B[ep];W[eq];B[co];W[bp];B[dn];W[eo];B[fp])
+(;W[co]C[/"jueyi白48.1% | -0.5目];B[eq];W[fp];B[fr];W[hq];B[cq];W[bq];B[do];W[cr];B[dn]))
+(;B[qh]C[/"jueyi黑45.8% | -0.5目];W[rh];B[ri];W[pc];B[pn];W[qq];B[qr];W[rr];B[qp];W[rq])
+(;B[hg]C[/"jueyi黑45.2% | -0.5目];W[ch];B[di];W[dh];B[qh];W[rh];B[ri];W[pc];B[dp];W[dq])
+(;B[dp]C[/"jueyi黑44.3% | -0.5目];W[dq];B[cq];W[bq];B[cr];W[ep];B[do];W[co];B[dn];W[cn]))
+(;W[dg]C[/"jueyi白55.0% | +0.5目];B[qh];W[rh];B[ri];W[pc];B[pn];W[qq];B[qr];W[rr];B[qp])
+(;W[pc]C[/"jueyi白51.4% | +0.5目];B[qb];W[dg];B[pn];W[ch];B[di];W[dh];B[qh];W[rh];B[ri])
+(;W[cb]C[/"jueyi白49.5% | -0.5目];B[bb];W[dg];B[qh];W[rh];B[ri];W[pc];B[hf];W[rq];B[pn]))
+(;B[cg]C[/"jueyi黑45.2% | -0.5目];W[dg];B[qh];W[rh];B[ri];W[pc];B[pn];W[qq];B[qr];W[rr])
+(;B[qh]C[/"jueyi黑44.0% | -0.5目];W[rh];B[ri];W[pc];B[cg];W[dg];B[hg];W[ch];B[di];W[dh])
+(;B[gf]C[/"jueyi黑45.1% | -0.5目];W[qh];B[ch];W[cb];B[bb];W[hb];B[hc];W[gb];B[ib];W[jb]))
+(;W[cf]C[/"jueyi白57.1% | +0.5目];B[bg];W[id];B[ic];W[he];B[gd];W[ge];B[fe];W[cb];B[bb])
+(;W[hf]C[/"jueyi白57.4% | +0.5目];B[cg];W[id];B[hc];W[he];B[jc];W[je];B[qh];W[rh];B[ri])
+(;W[cb]C[/"jueyi白56.6% | +0.5目];B[bb];W[cf];B[bg];W[id];B[ic];W[he];B[gd];W[ge];B[fe]))
+(;B[pg]C[/"jueyi黑43.6% | -0.5目];W[cf];B[bg];W[id];B[ic];W[he];B[gd];W[ge];B[fe];W[cb])
+(;B[cg]C[/"jueyi黑40.6% | -1.0目];W[pg];B[pn];W[dg];B[dh];W[cf];B[bh];W[eh];B[di];W[kc])
+(;B[pn]C[/"jueyi黑39.8% | -1.0目];W[dh];B[pg];W[qi];B[dg];W[cb];B[bb];W[be];B[cg];W[ce]))
+(;W[qg]C[/"jueyi白56.7% | +0.5目];B[pg];W[cf];B[bg];W[id];B[ic];W[he];B[ge];W[gd];B[hc])
+(;W[pg]C[/"jueyi白55.8% | +0.5目];B[og];W[ph];B[oh];W[pi];B[oi];W[pj];B[cg];W[eh];B[hg])
+(;W[cf]C[/"jueyi白42.8% | -1.5目];B[qg];W[pc];B[bg];W[rf];B[pj];W[hc];B[ic];W[id]))
+(;B[pf]C[/"jueyi黑43.2% | -0.5目];W[qg];B[pg];W[cf];B[bg];W[id];B[ic];W[he];B[ge];W[gd])
+(;B[og]C[/"jueyi黑34.4% | -2.0目];W[pc];B[cg];W[dg];B[dh];W[cf];B[bh];W[eh];B[di];W[kc])
+(;B[cg]C[/"jueyi黑34.6% | -2.0目];W[pf];B[qb];W[pl];B[rg];W[rf];B[qj];W[oj];B[qm];W[ql]))
+(;W[re]C[/"jueyi白57.0% | +0.5目];B[pf];W[qg];B[pg];W[cf];B[bg];W[id];B[ic];W[he];B[ge])
+(;W[pc]C[/"jueyi白53.0% | +0.5目];B[qb];W[pb];B[rb];W[sb];B[re];W[ra];B[ql];W[oo];B[no]))
+(;B[pf]C[/"jueyi黑43.5% | -0.5目];W[re];B[pe];W[qg];B[pg];W[cf];B[bg];W[cb];B[bb];W[id])
+(;B[pe]C[/"jueyi黑43.0% | -0.5目];W[re];B[pf];W[qg];B[pg];W[cb];B[bb];W[be];B[ce];W[cf])
+(;B[re]C[/"jueyi黑37.7% | -1.5目];W[pe];B[rf];W[pc];B[od];W[pb];B[qg];W[ql];B[kd];W[ng]))
+(;W[rd]C[/"jueyi白56.6% | +0.5目];B[pf];W[re];B[pe];W[qg];B[pg];W[cf];B[bg];W[id];B[ic]))
+(;B[qe]C[/"jueyi黑43.4% | -0.5目];W[rd];B[pf];W[re];B[pe];W[qg];B[pg];W[cf];B[bg];W[cb])
+(;B[rb]C[/"jueyi黑40.0% | -1.0目];W[pj];B[rd];W[qe];B[od];W[pm];B[cg];W[mq];B[pi];W[qi])
+(;B[pb]C[/"jueyi黑37.7% | -1.5目];W[re];B[pe];W[ql];B[cg];W[pf];B[ng];W[dg];B[dh];W[eh]))
+(;W[rc]C[/"jueyi白57.1% | +0.5目];B[qe];W[rd];B[pf];W[re];B[pe];W[qg];B[pg];W[cf];B[bg])
+(;W[cf]C[/"jueyi白55.3% | +0.5目];B[bg];W[rc];B[qe];W[rd];B[pf];W[re];B[pe];W[qg];B[cb]))
+(;B[qc]C[/"jueyi黑42.9% | -0.5目];W[rc];B[qe];W[rd];B[pf];W[re];B[pe];W[qg];B[pg];W[cf]))
+(;W[qd]C[/"jueyi白57.3% | +0.5目];B[qc];W[rc];B[qe];W[rd];B[pf];W[re];B[pe];W[qg];B[pg])
+(;W[jc]C[/"jueyi白57.4% | +0.5目];B[cg];W[hc];B[qe];W[ql];B[qj];W[cb];B[bb];W[pf];B[qh])
+(;W[pl]C[/"jueyi白57.4% | +0.5目];B[cg];W[lq];B[qj];W[rq];B[lp];W[kp];B[mp];W[qm];B[ok]))
+(;B[hd]C[/"jueyi黑43.0% | -0.5目];W[qd];B[qc];W[rc];B[qe];W[rd];B[pf];W[re];B[pe];W[qg])
+(;B[qe]C[/"jueyi黑40.4% | -1.0目];W[pf];B[qk];W[me];B[qh];W[pj];B[pk];W[ph];B[on];W[qi])
+(;B[hc]C[/"jueyi黑40.0% | -1.0目];W[he];B[jd];W[cb];B[bb];W[be];B[ce];W[cf];B[df];W[cg]))
+(;W[md]C[/"jueyi白59.1% | +1.0目];B[nd];W[ql];B[hd];W[jc];B[gf];W[eh];B[cg];W[dg];B[jd])
+(;W[ql]C[/"jueyi白58.3% | +1.0目];B[hd];W[jc];B[gc];W[eh];B[gg];W[je];B[ch];W[mc];B[mb])
+(;W[qf]C[/"jueyi白58.9% | +1.0目];B[hd];W[qd];B[qc];W[rc];B[qe];W[rd];B[pf];W[re];B[pe]))
+(;B[np]C[/"jueyi黑40.8% | -1.0目];W[md];B[nd];W[mc];B[me];W[le];B[mf];W[nb];B[ob];W[mb])
+(;B[op]C[/"jueyi黑41.2% | -1.0目];W[md];B[nd];W[ql];B[hd];W[jc];B[cg];W[hc];B[qj];W[cb])
+(;B[qp]C[/"jueyi黑41.1% | -1.0目];W[po];B[nq];W[qk];B[hd];W[dh];B[qi];W[jc];B[hg];W[je]))
+(;W[qo]C[/"jueyi白59.1% | +1.0目];B[qp];W[po];B[nq];W[qk];B[hd];W[dh];B[qi];W[jc];B[if])
+(;W[md]C[/"jueyi白58.4% | +1.0目];B[hd];W[qo];B[hf];W[op];B[oq];W[np];B[mr];W[cb];B[bb])
+(;W[qf]C[/"jueyi白56.9% | +0.5目];B[qo];W[qd];B[qc];W[rc];B[qe];W[rd];B[re];W[pe];B[rf]))
+(;B[hc]C[/"jueyi黑41.9% | -1.0目];W[qo];B[cg];W[op];B[oq];W[np];B[mq];W[dg];B[dh];W[eh])
+(;B[nc]C[/"jueyi黑41.5% | -1.0目];W[qo];B[np];W[md];B[nd];W[mc];B[ic];W[me];B[ie];W[ig])
+(;B[cg]C[/"jueyi黑41.4% | -1.0目];W[id];B[qn];W[nc];B[oc];W[nd];B[pf];W[re];B[qg];W[qc]))
+(;W[qc]C[/"jueyi白60.2% | +1.0目];B[pc];W[qd];B[qf];W[qe];B[pe];W[rf];B[eq];W[qo];B[do])
+(;W[qo]C[/"jueyi白59.4% | +1.0目];B[eq];W[op];B[oq];W[np];B[mr];W[qf];B[do];W[dq];B[er])
+(;W[ep]C[/"jueyi白59.5% | +1.0目];B[cg];W[qo];B[qp];W[po];B[nq];W[qf];B[nd];W[lc];B[qe]))
+(;B[bf]C[/"jueyi黑40.4% | -1.0目];W[qc];B[pc];W[qd];B[qf];W[qe];B[pe];W[rf];B[eq];W[qo])
+(;B[ce]C[/"jueyi黑38.4% | -1.5目];W[cf];B[bf];W[qc];B[qd];W[pc];B[nc];W[oc];B[od];W[nb])
+(;B[cf]C[/"jueyi黑36.8% | -1.5目];W[qc];B[pc];W[qd];B[qf];W[qe];B[pe];W[rf];B[bg];W[ic]))
+(;W[de]C[/"jueyi白61.7% | +1.5目];B[bf];W[qc];B[pc];W[qd];B[qf];W[qe];B[pe];W[rf];B[eq])
+(;W[cf]C[/"jueyi白61.8% | +1.5目];B[ce];W[de];B[bf];W[nc];B[ep];W[eq];B[fq];W[dq];B[fp])
+(;W[ce]C[/"jueyi白57.5% | +0.5目];B[be];W[bf];B[cf];W[de];B[bg];W[bd];B[af];W[bc];B[eq]))
+(;B[cd]C[/"jueyi黑38.5% | -1.5目];W[cf];B[ce];W[de];B[bf];W[nc];B[eq];W[do];B[po];W[cb]))
+(;W[cd]C[/"jueyi白63.6% | +1.5目];B[dc];W[fc];B[ec];W[ed];B[fb];W[ep];B[cj];W[qc];B[qd])
+(;W[dc]C[/"jueyi白61.6% | +1.5目];B[cd];W[cf];B[ce];W[de];B[bf];W[qc];B[qd];W[pc];B[nc])
+(;W[qc]C[/"jueyi白57.5% | +1.0目];B[qd];W[cd];B[dc];W[ed];B[ec];W[fc];B[fd]))
+(;B[ep]C[/"jueyi黑37.6% | -1.5目];W[eq];B[fq];W[dq];B[fp];W[cn];B[lp];W[pn];B[qp];W[qo])
+(;B[eq]C[/"jueyi黑37.5% | -1.5目];W[qc];B[qd];W[pc];B[od];W[nb];B[cc];W[cd];B[dc];W[fc])
+(;B[nc]C[/"jueyi黑37.4% | -1.5目];W[qo];B[np];W[fp];B[fc];W[cg];B[qk];W[mo];B[qp];W[rp]))
+(;W[dq]C[/"jueyi白63.7% - 3.75子];B[nc];W[qo];B[np];W[re];B[qd];W[qi];B[cc];W[dc];B[cd]))
+(;B[cc]C[/"jueyi黑38.1% - 3.75子];W[cd];B[dc];W[fc];B[ec];W[ed];B[fb];W[pp];B[dp];W[fq]))
+(;W[dp]C[/"jueyi白61.8% - 3.75子];B[cq];W[dd];B[dq];W[pp];B[ep];W[qc];B[pc];W[qd];B[qf]))
