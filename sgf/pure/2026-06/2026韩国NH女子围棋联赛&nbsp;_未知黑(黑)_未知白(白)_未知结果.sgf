@@ -1,12 +1,12 @@
 (;GM[1]FF[4]
 SZ[19]
 GN[2026韩国NH女子围棋联赛<绝艺讲解>]
-DT[2026-06-21]
-PB[金彩瑛]
-PW[许瑞玹]
+DT[2026-06-25]
+PB[김혜민]
+PW[김주아]
 BR[P9段]
-WR[P5段]
-KM[650]HA[0]RU[Japanese]AP[GNU Go:3.8]RE[B+R]TM[600]TC[0]TT[20]AP[foxwq]RL[5]
-;B[pd]
+WR[P4段]
+KM[650]HA[0]RU[Japanese]AP[GNU Go:3.8]RE[B+0.50]TM[600]TC[1]TT[20]AP[foxwq]RL[5]
+;B[qd]
 
 )
